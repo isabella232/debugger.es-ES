@@ -13,7 +13,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 # Información de red{#network-information}
 
-Para ver la información de red, haga clic en **[!UICONTROL Red]**.
+Para ver la información de red, haga clic en **[!UICONTROL Network]**.
 
 La pantalla Red agrega todas las llamadas de la solución Adobe Experience Cloud realizadas en la página y las muestra en orden de izquierda a derecha. Los parámetros estándar se etiquetan automáticamente con nombres descriptivos y se organizan para agrupar parámetros comunes en la misma función.
 
@@ -25,7 +25,7 @@ La pantalla Red agrega todas las llamadas de la solución Adobe Experience Cloud
 >
 >En este momento, no todos los parámetros pasados en las llamadas de solución (por ejemplo, variables de contexto de Analytics, parámetros personalizados de Target o ID de cliente del servicio de ID de Experience Cloud) están visibles en la pantalla Red.
 
-Para ver toda la información, seleccione **[!UICONTROL Todo]**.
+Para ver toda la información, seleccione **[!UICONTROL All]**.
 
 También puede filtrar la información por solución. Seleccione las soluciones que desee ver. Puede ver varias soluciones al mismo tiempo. Se resaltan los filtros de solución seleccionados.
 

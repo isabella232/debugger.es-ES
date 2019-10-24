@@ -22,4 +22,4 @@ La pantalla Registros proporciona información específica sobre las implementac
 
 ![](assets/logs.jpg)
 
-Algunos elementos de registro de la DTM incluyen una opción Mostrar código en el mensaje. Haga clic en **[!UICONTROL Mostrar código]** para ver el código condicional que determina si una regla debe activarse.
+Algunos elementos de registro de la DTM incluyen una opción Mostrar código en el mensaje. Haga clic en **[!UICONTROL Show Code]** para ver el código condicional que determina si una regla debe activarse.

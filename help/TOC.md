@@ -2,7 +2,7 @@
 cloud: experience-cloud
 product: Experience Cloud
 sub-product: depurador de Experience Cloud
-audience: usuario final
+audience: end-user
 user-guide-title: Ayuda de Experience Cloud Debugger
 translation-type: tm+mt
 source-git-commit: 8629b319c7435e7106074c2a2e08088e26912bcd

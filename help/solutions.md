@@ -41,7 +41,7 @@ Esta pantalla muestra todas las solicitudes desde que se abrió el depurador o s
 
 **Cuentas vinculadas (heredadas)**
 
-Haga clic en **[!UICONTROL Vincular cuenta]** y, a continuación, introduzca la información solicitada para vincular una cuenta de Analytics al depurador.
+Haga clic en **[!UICONTROL Link Account]** y, a continuación, introduzca la información solicitada para vincular una cuenta de Analytics al depurador.
 
 >[!NOTE]
 >
@@ -61,11 +61,11 @@ Para la mayoría de las implementaciones de Analytics, la información de reglas
 
 Utilice la ficha Target para ver las solicitudes de [Target](https://docs.adobe.com/content/help/en/target/using/target-home.html) o los detalles de respuesta de [seguimiento](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) de mbox.
 
-Haga clic en **[!UICONTROL Solicitudes]** y expanda el entorno para ver información sobre Target.
+Haga clic en **[!UICONTROL Requests]** y expanda el entorno para ver información sobre Target.
 
 ![](assets/target-requests.jpg)
 
-Haga clic en **[!UICONTROL Borrar todas las solicitudes]** para eliminar las solicitudes mostradas actualmente. Se mostrarán más solicitudes a medida que se realicen.
+Haga clic en **[!UICONTROL Clear All Requests]** para eliminar las solicitudes que se muestran actualmente. Se mostrarán más solicitudes a medida que se realicen.
 
 También puede utilizar el filtro de Target para [habilitar el seguimiento de MBox para fines](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)de depuración de Target.
 
@@ -97,7 +97,7 @@ Utilice la ficha [Audience Manager](https://experiencecloud.adobe.com/resources/
 
 ![](assets/audience-manager.jpg)
 
-Haga clic en **[!UICONTROL Borrar todos los eventos]** para restablecer la información mostrada. Aparecerán nuevos eventos a medida que ocurran.
+Haga clic en **[!UICONTROL Clear All Events]** para restablecer la información mostrada. Aparecerán nuevos eventos a medida que ocurran.
 
 **Sincronización de ID**
 
@@ -111,14 +111,14 @@ Consulte Sincronización [de ID para transferencias](https://experiencecloud.ado
 
 Utilice la ficha Advertising Cloud para ver las solicitudes de Advertising Cloud.
 
-Haga clic en **[!UICONTROL Solicitudes]** y expanda el entorno para ver información sobre Advertising Cloud.
+Haga clic en **[!UICONTROL Requests]** y expanda el entorno para ver información sobre Advertising Cloud.
 
-Haga clic en **[!UICONTROL Borrar todas las solicitudes]** para eliminar las solicitudes mostradas actualmente. Se mostrarán más solicitudes a medida que se realicen.
+Haga clic en **[!UICONTROL Clear All Requests]** para eliminar las solicitudes que se muestran actualmente. Se mostrarán más solicitudes a medida que se realicen.
 
 ## Servicio Experience Cloud ID {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 Utilice la ficha Servicio de ID de Experience Cloud para ver las solicitudes del servicio [de ID de](https://experiencecloud.adobe.com/resources/help/en_US/mcvid/) Experience Cloud.
 
-Haga clic en **[!UICONTROL Solicitudes]** y, a continuación, expanda el entorno para ver información sobre el servicio Experience Cloud ID.
+Haga clic en **[!UICONTROL Requests]** y expanda el entorno para ver información sobre el servicio Experience Cloud ID.
 
-Haga clic en **[!UICONTROL Borrar todas las solicitudes]** para eliminar las solicitudes mostradas actualmente. Se mostrarán más solicitudes a medida que se realicen.
+Haga clic en **[!UICONTROL Clear All Requests]** para eliminar las solicitudes que se muestran actualmente. Se mostrarán más solicitudes a medida que se realicen.

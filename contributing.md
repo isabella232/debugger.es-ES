@@ -1,6 +1,6 @@
 ---
 source-git-commit: a29fa566513ef1b69e3b0b4be1d4cb2c22c72fe1
-translation-type: tm+mt
+translation-type: ht
 
 ---
 # Contribución
@@ -23,7 +23,7 @@ Todas las contribuciones de terceros a este proyecto deben estar acompañadas po
 
 ## Revisiones de código
 
-Todos los envíos deben ser solicitudes de extracción y deben revisarlos los supervisores del proyecto. Lea la [documentación de las solicitudes de extracción de GitHub](https://help.github.com/articles/about-pull-requests/) para obtener más información sobre el envío de solicitudes de extracción.
+Todos los envíos deben ser solicitudes de extracción y deben revisarlos los supervisores del proyecto. Lea la [documentación de las solicitudes de extracción de GitHub](https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/about-pull-requests) para obtener más información sobre el envío de solicitudes de extracción.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
@@ -36,4 +36,4 @@ submitting a pull request!
 
 ## Problemas de seguridad
 
-Los problemas de seguridad no deben enviarse a este rastreador de problemas. [Envíe el problema a nuestros expertos en seguridad](https://helpx.adobe.com/security/alertus.html)
+Los problemas de seguridad no deben enviarse a este rastreador de problemas. [Envíe el problema a nuestros expertos en seguridad](https://helpx.adobe.com/es/security/alertus.html)

@@ -6,7 +6,7 @@ seo-title: Información de red
 title: Información de red
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
 
@@ -19,7 +19,7 @@ La pantalla Red agrega todas las llamadas de la solución Adobe Experience Cloud
 
 ![](assets/network.jpg)
 
-Esta pantalla es útil para confirmar que los parámetros utilizados para las integraciones, como el ID de visitante de Experience Cloud o el ID de datos suplementarios, son coherentes en todas las integraciones.
+Esta pantalla es útil para comparar pares de valor clave entre visitas individuales. Puede confirmar que los parámetros utilizados para las integraciones, como el ID de visitante de Experience Cloud o el ID de datos suplementarios, son coherentes en todas las integraciones.
 
 >[!NOTE]
 >

@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Información de red
 title: Información de red
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
@@ -13,13 +13,13 @@ source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 # Información de red {#network-information}
 
-To view Network information, click **[!UICONTROL Network]**.
+Para ver la información de red, haga clic en **[!UICONTROL Network]**.
 
 La pantalla Red agrega todas las llamadas de la solución Adobe Experience Cloud realizadas en la página y las muestra en orden de izquierda a derecha. Los parámetros estándar se etiquetan automáticamente con nombres descriptivos y se organizan para agrupar parámetros comunes en la misma función.
 
 ![](assets/network.jpg)
 
-Esta pantalla es útil para comparar pares de valor clave entre visitas individuales. Puede confirmar que los parámetros utilizados para las integraciones, como el ID de visitante de Experience Cloud o el ID de datos suplementarios, son coherentes en todas las integraciones.
+Esta pantalla es útil para comparar pares de valor clave entre visitas individuales. Aquí se puede confirmar que los parámetros utilizados para las integraciones, como el ID de visitante de Experience Cloud o el ID de datos suplementarios, son coherentes en todas las integraciones.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Para filtrar la información por solución, seleccione la solución que desee ve
 
 Para volver a mostrar todas las soluciones, haga clic en **[!UICONTROL Network]**
 
-Haga clic en un elemento en la vista Red para ver una vista ampliada. Desde la ventana de vista expandida, puede copiar la información mostrada en el portapapeles.
+Haga clic en un elemento en la vista Red para verlo más grande. Desde la ventana de vista expandida, puede copiar la información mostrada en el portapapeles.
 
 ![](assets/network-expand.jpg)
 

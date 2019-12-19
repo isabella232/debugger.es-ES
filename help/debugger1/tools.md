@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Herramientas
 title: Herramientas
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
@@ -17,7 +17,7 @@ En la pantalla Herramientas, puede habilitar o deshabilitar varias herramientas 
 
 ![](assets/tools.jpg)
 
-Puede Insertar Launch o DTM de forma dinámica en cualquier página para probar algo en una página que no tenga instalado Launch o DTM. Click the **[!UICONTROL Embed Code]** icon, then type your [embed code](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) and click **[!UICONTROL Save]**.
+Puede Insertar Launch o DTM de forma dinámica en cualquier página para probar algo en una página que no tenga instalado Launch o DTM. Haga clic en el icono **[!UICONTROL Embed Code]**, luego escriba el [código incrustado](https://experiencecloud.adobe.com/resources/help/es_ES/dtm/deployment.html) y haga clic en **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 

@@ -4,19 +4,19 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;events;d
 seo-description: 'null'
 seo-title: Eventos
 title: Eventos
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
 
 
-# Eventos{#events}
+# Eventos {#events}
 
-La pantalla Eventos proporciona una vista gráfica de los eventos que se producen y que se muestran en una línea de tiempo.
+La pantalla Eventos proporciona una vista gráfica de los eventos que se producen y que se muestran en una cronología.
 
 ![](assets/events.jpg)
 
-Para cada evento, aparece un icono para la solución de Experience Cloud aplicable en la línea de tiempo. Los iconos también muestran cambios en la capa de datos (si está activada). Pase el ratón sobre un icono para ver un resumen del evento. Haga clic en el evento para obtener más detalles. Puede pulsar Mayús-clic o Control-clic para ver varios eventos.
+Para cada evento, aparece un icono para la solución de Experience Cloud aplicable en la cronología. Los iconos también muestran cambios en la capa de datos (si está activada). Pase el ratón sobre un icono para ver un resumen del evento. Haga clic en el evento para obtener más información. Puede pulsar Mayús + clic o Ctrl + clic para ver varios eventos.
 
 ![](assets/events-details.jpg)
 
@@ -26,14 +26,14 @@ Haga clic en un detalle para obtener más información.
 
 ## Rastrear cambios en la capa de datos
 
-Para habilitar el seguimiento de los cambios en la capa de datos en la línea de tiempo:
+Para habilitar el seguimiento de los cambios en la capa de datos en la cronología:
 
-1. Haga clic en el icono Engranaje en la parte superior derecha.
+1. Haga clic en el icono de engranaje en la parte superior derecha.
 1. Introduzca el nombre de la capa de datos.
    ![](assets/event-datalayer.jpg)
 1. Haga clic en **[!UICONTROL Save]**.
 
-Los detalles del cambio de la capa de datos muestran cualquier cosa que se haya eliminado o agregado. Puede hacer clic **{}** para ver más profundamente en la capa de datos.
+Los detalles del cambio de la capa de datos muestran cualquier componente que se haya eliminado o agregado. Puede hacer clic en **{}** para ver más información en la capa de datos.
 
 ## Descargar información del evento
 

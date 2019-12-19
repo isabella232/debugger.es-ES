@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Registros
 title: Registros
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
@@ -22,4 +22,4 @@ La pantalla Registros proporciona información específica sobre las implementac
 
 ![](assets/logs.jpg)
 
-Algunos elementos de registro de DTM incluyen la opción Mostrar código en el mensaje. Click **[!UICONTROL Show Code]** to view the conditional code that determines whether a rule should fire.
+Algunos elementos de registro de DTM incluyen la opción Mostrar código en el mensaje. Haga clic en **[!UICONTROL Show Code]** para ver el código condicional que determina si una regla debe activarse.

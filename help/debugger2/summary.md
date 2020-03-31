@@ -5,28 +5,27 @@ seo-description: 'null'
 seo-title: Pantalla de resumen
 title: Pantalla de resumen
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # Pantalla de resumen {#summary-screen}
 
-Para ejecutar Experience Cloud Debugger, haga clic en el icono de extensión de la barra de extensiones y, a continuación, abra la página que desee examinar en Chrome.
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 está actualmente en versión beta. La documentación y la funcionalidad están sujetas a cambios.
+
+Para ejecutar Adobe Experience Platform Debugger, haga clic en el icono de la barra del explorador y, a continuación, abra la página que desee examinar en el explorador.
 
 ![](assets/start-icon.jpg)
 
-Aparece la pantalla Resumen de Adobe Experience Cloud Debugger.
+Aparecerá la pantalla Resumen del depurador de Adobe Experience Platform.
 
 ![](assets/summary.jpg)
 
 Esta pantalla muestra información sobre cada solución de Adobe Experience Cloud. La información mostrada varía según la solución, pero generalmente incluye información como la biblioteca y la versión de la solución (por ejemplo, “AppMeasurement v2.9”) e identificadores de cuenta (como el ID del grupo de informes de Analytics, el código de cliente de Target, el ID del socio de Audience Manager, etc.)
-
-
-## Ejecutar una auditoría en el Auditor {#section-82bc57440406461ebf27a16855b71655}
-
-Puede utilizar Adobe Auditor para ejecutar una serie de auditorías en su página. Para ejecutar Auditor, haga clic en **[!UICONTROL Auditor]** en el menú superior y, a continuación, haga clic en **[!UICONTROL Audit Page Now]**. Para abrir Adobe Auditor, haga clic en **[!UICONTROL Run Multi-Page Audit Now]**.
 
 ## Información mostrada en Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
@@ -38,19 +37,19 @@ Debugger muestra la siguiente información para cada solución:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Grupo(s) de informes </p> </td> 
-   <td colname="col2"> <p>Los <a href="https://experiencecloud.adobe.com/resources/help/es_ES/reference/report_suites_admin.html" format="html" scope="external">grupos de informes</a> definen los informes completos e independientes de un sitio web concreto, de un conjunto de sitios web o de un subconjunto de páginas web </p> </td> 
+   <td colname="col2"> <p>Los <a href="https://experiencecloud.adobe.com/resources/help/en_US/reference/report_suites_admin.html" format="html" scope="external">grupos de informes</a> definen los informes completos e independientes de un sitio web concreto, de un conjunto de sitios web o de un subconjunto de páginas web </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versión </p> </td> 
-   <td colname="col2"> <p>Versión de <a href="https://experiencecloud.adobe.com/resources/help/es_ES/sc/implement/appmeasure_mjs.html" format="html" scope="external"> AppMeasurement</a> definida para la página </p> </td> 
+   <td colname="col2"> <p>Versión de <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/appmeasure_mjs.html" format="html" scope="external"> AppMeasurement</a> definida para la página </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versión del visitante </p> </td> 
-   <td colname="col2"> <p>Versión de la biblioteca de <a href="https://experiencecloud.adobe.com/resources/help/es_ES/sc/implement/visid_analytics.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
+   <td colname="col2"> <p>Versión de la biblioteca de <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nombre de la página </p> </td> 
-   <td colname="col2"> <p>Variable <a href="https://experiencecloud.adobe.com/resources/help/es_ES/sc/implement/pageName.html" format="html" scope="external">pageName</a> enviada a Analytics que contiene un nombre descriptivo del sitio. </p> </td> 
+   <td colname="col2"> <p>Variable <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/pageName.html" format="html" scope="external">pageName</a> enviada a Analytics que contiene un nombre descriptivo del sitio. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Módulos </p> </td> 
@@ -65,15 +64,15 @@ Debugger muestra la siguiente información para cada solución:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Socio </p> </td> 
-   <td colname="col2"> <p>El <a href="https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/dil-api/dil-instance-methods.translate.html#getpartner" format="html" scope="external">nombre del socio</a> para la instancia DIL </p> </td> 
+   <td colname="col2"> <p>El <a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_dil_get_partner.html" format="html" scope="external">nombre del socio</a> para la instancia DIL </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versión </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-dil-methods.translate.html#return-version-dil" format="html" scope="external">Número de versión</a> de la instancia DIL </p> </td> 
+   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_api_return_versions_dil.html" format="html" scope="external">Número de versión</a> de la instancia DIL </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Identificador único universal (UUID) </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/reference/ids-in-aam.html" format="html" scope="external">ID de usuario único</a> asociado a la instancia DIL </p> </td> 
+   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/ids-in-aam.html" format="html" scope="external">ID de usuario único</a> asociado a la instancia DIL </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -99,35 +98,39 @@ Debugger muestra la siguiente información para cada solución:
    <td colname="col2"> <p>El <a href="https://docs.adobelaunch.com/administration/environments" format="https" scope="external"> entorno</a> utilizado por la biblioteca de Launch </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Directorio de scripts </p> </td> 
-   <td colname="col2"> <p>El directorio en el que se almacena el script de Launch </p> </td> 
+   <td colname="col1"> <p>Extensiones </p> </td> 
+   <td colname="col2"> <p>Las extensiones utilizadas en la página </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-**Adobe DTM**
+**Adobe Web SDK**
 
 <table id="table_DC76D63FA6EF4891906B9E1D3E4A8A6C"> 
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Nombre de la biblioteca </p> </td> 
-   <td colname="col2"> <p>Nombre de la <a href="https://experiencecloud.adobe.com/resources/help/es_ES/dtm/library_management.html" format="html" scope="external">biblioteca</a> de Adobe DTM </p> </td> 
+   <td colname="col1"> <p>Versión de biblioteca </p> </td> 
+   <td colname="col2"> <p>Número de la versión de la <a href="https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">biblioteca del SDK web de AEB</a> </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Versión </p> </td> 
-   <td colname="col2"> <p>La versión de Turbine </p> </td> 
+   <td colname="col1"> <p>Área de nombres</p> </td> 
+   <td colname="col2"> <p>El nombre identificado en la extensión</p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Fecha de compilación </p> </td> 
-   <td colname="col2"> <p>Fecha de compilación de la <a href="https://experiencecloud.adobe.com/resources/help/es_ES/dtm/library_management.html" format="html" scope="external"> biblioteca</a> de Launch </p> </td> 
+   <td colname="col1"> <p>ID de propiedad </p> </td> 
+   <td colname="col2"> <p>Nombre de la propiedad Launch especificada en la extensión </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Entorno </p> </td> 
-   <td colname="col2"> <p>El entorno utilizado por la biblioteca de la DTM </p> </td> 
+   <td colname="col1"> <p>Dominio de Edge </p> </td> 
+   <td colname="col2"> <p>El dominio desde el que la extensión de la plataforma Adobe Experience envía y recibe datos </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Directorio de scripts </p> </td> 
-   <td colname="col2"> <p>El directorio en el que se almacena el script de la DTM </p> </td> 
+   <td colname="col1"> <p>ID de organización de IMS </p> </td> 
+   <td colname="col2"> <p>La organización a la que desea que se envíen los datos en Adobe, tal como se especifica en la extensión </p> </td> 
+  </tr> 
+  <tr> 
+   <td colname="col1"> <p>Registro habilitado </p> </td> 
+   <td colname="col2"> <p>Especifica si el registro se ha habilitado para esta propiedad</p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -138,11 +141,11 @@ Debugger muestra la siguiente información para cada solución:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>ID de organización de Experience Cloud </p> </td> 
-   <td colname="col2"> <p>Su <a href="https://experiencecloud.adobe.com/resources/help/es_ES/mcvid/" format="https" scope="external">ID de organización</a> </p> </td> 
+   <td colname="col2"> <p>Su <a href="https://experiencecloud.adobe.com/resources/help/en_US/mcvid/" format="https" scope="external">ID de organización</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versión </p> </td> 
-   <td colname="col2"> <p>Versión de la biblioteca de <a href="https://experiencecloud.adobe.com/resources/help/es_ES/sc/implement/visid_analytics.html" format="html" scope="external">ID de visitante</a> </p> </td> 
+   <td colname="col2"> <p>Versión de la biblioteca de <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external">ID de visitante</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -153,43 +156,47 @@ Debugger muestra la siguiente información para cada solución:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Código de cliente </p> </td> 
-   <td colname="col2"> <p>Su <a href="https://docs.adobe.com/content/help/es-ES/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external">código de cliente </a> de Target </p> </td> 
+   <td colname="col2"> <p>Su <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external">código de cliente </a> de Target </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versión </p> </td> 
-   <td colname="col2"> <p>Su versión actual de <a href="https://docs.adobe.com/content/help/es-ES/target/using/implement-target/client-side/target-atjs-versions.translate.html" format="html" scope="external"> at.js</a> o mbox.js </p> </td> 
+   <td colname="col2"> <p>Su versión actual de <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external"> at.js</a> o mbox.js </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Nombre de mbox global </p> </td> 
-   <td colname="col2"> <p>El <a href="https://docs.adobe.com/content/help/es-ES/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">mbox global</a> hace referencia a la llamada al servidor única que se realiza sobre cada página web de la implementación de Target </p> </td> 
+   <td colname="col1"> <p>Nombre de solicitud global </p> </td> 
+   <td colname="col2"> <p>El <a href="https://docs.adobe.com/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">mbox global</a> hace referencia a la llamada al servidor única que se realiza sobre cada página web de la implementación de Target </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Nombre de mbox </p> </td> 
-   <td colname="col2"> <p>Nombre de un mbox alrededor de una <a href="https://docs.adobe.com/content/help/es-ES/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">ubicación</a> en la página. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/es-ES/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
+   <td colname="col1"> <p>Evento de carga de página </p> </td> 
+   <td colname="col2"> <p>El tipo de <a href="https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/target-extension/overview.html" format="html" scope="external">evento</a> que se activa cuando se carga la página </p> </td> 
+  </tr> 
+  <tr> 
+   <td colname="col1"> <p>Nombre de la solicitud </p> </td> 
+   <td colname="col2"> <p>The name of a request around a <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> location</a> on the page. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nombre de la actividad </p> </td> 
-   <td colname="col2"> <p>El nombre de la <a href="https://docs.adobe.com/content/help/es-ES/target/using/activities/activities.html" format="html" scope="external">campaña o actividad</a> de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/es-ES/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
+   <td colname="col2"> <p>El nombre de la <a href="https://docs.adobe.com/content/help/en/target/using/activities/activities.html" format="html" scope="external">campaña o actividad</a> de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID de actividad </p> </td> 
-   <td colname="col2"> <p>El ID de la actividad de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/es-ES/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
+   <td colname="col2"> <p>El ID de la actividad de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Nombre de fórmula </p> </td> 
-   <td colname="col2"> <p>Nombre de la <a href="https://docs.adobe.com/content/help/es-ES/target/using/experiences/experiences.html" format="html" scope="external">experiencia</a> de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/es-ES/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
+   <td colname="col1"> <p>Nombre de la experiencia </p> </td> 
+   <td colname="col2"> <p>Nombre de la <a href="https://docs.adobe.com/content/help/en/target/using/experiences/experiences.html" format="html" scope="external">experiencia</a> de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>ID de fórmula </p> </td> 
-   <td colname="col2"> <p>El ID de la fórmula de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/es-ES/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
+   <td colname="col1"> <p>ID de experiencia </p> </td> 
+   <td colname="col2"> <p>ID de la experiencia de Destinatario. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Oferta </p> </td> 
-   <td colname="col2"> <p>Nombre de la <a href="https://docs.adobe.com/content/help/es-ES/target/using/experiences/offers/manage-content.html" format="html" scope="external">oferta</a> de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/es-ES/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
+   <td colname="col1"> <p>Oferta Nombre</p> </td> 
+   <td colname="col2"> <p>Nombre de la <a href="https://docs.adobe.com/content/help/en/target/using/experiences/offers/manage-content.html" format="html" scope="external">oferta</a> de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID de oferta </p> </td> 
-   <td colname="col2"> <p>El ID de la oferta de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/es-ES/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
+   <td colname="col2"> <p>El ID de la oferta de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
   </tr> 
  </tbody> 
 </table>

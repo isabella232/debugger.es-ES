@@ -4,13 +4,17 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;events;d
 seo-description: 'null'
 seo-title: Eventos
 title: Eventos
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # Eventos {#events}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0 está actualmente en versión beta. La documentación y la funcionalidad están sujetas a cambios.
 
 La pantalla Eventos proporciona una vista gráfica de los eventos que se producen y que se muestran en una cronología.
 
@@ -30,7 +34,9 @@ Para habilitar el seguimiento de los cambios en la capa de datos en la cronolog�
 
 1. Haga clic en el icono de engranaje en la parte superior derecha.
 1. Introduzca el nombre de la capa de datos.
+
    ![](assets/event-datalayer.jpg)
+
 1. Haga clic en **[!UICONTROL Save]**.
 
 Los detalles del cambio de la capa de datos muestran cualquier componente que se haya eliminado o agregado. Puede hacer clic en **{}** para ver más información en la capa de datos.

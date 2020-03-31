@@ -6,7 +6,7 @@ seo-title: Instalar Adobe Experience Cloud Debugger
 title: Instalar Adobe Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3b2fd709419b40e0503baef9a39128ddbf4875b3
 
 ---
 
@@ -25,8 +25,6 @@ Descargue e instale Adobe Experience Platform Debugger.
 Después de instalar la extensión Chrome o el complemento Firefox, se agrega un icono a la barra de extensiones:
 
 ![](assets/start-icon.jpg)
-
-<!-->>[!VIDEO](https://video.tv.adobe.com/v/23114t2/)-->
 
 Haga clic en el icono para iniciar Debugger.
 

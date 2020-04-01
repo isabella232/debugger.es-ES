@@ -5,8 +5,8 @@ seo-description: Uso de las pestañas de solución en Adobe Debugger
 seo-title: Pestañas de solución en Adobe Debugger
 title: Pestañas de solución
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+translation-type: tm+mt
+source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
 
@@ -17,7 +17,7 @@ Haga clic en las pestañas de solución para ver los resultados de soluciones es
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
-La pestaña Analytics proporciona información sobre su implementación de [Analytics](https://experiencecloud.adobe.com/resources/help/es_ES/reference/).
+La pestaña Analytics proporciona información sobre su implementación de [Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
 **Visitas**
 
@@ -33,7 +33,7 @@ Haga clic en la ID del grupo de informes para expandir la vista:
 
 ![](assets/analytics-hits-expand.jpg)
 
-Esta pantalla muestra todas las solicitudes desde que se abrió Debugger o se borraron las solicitudes. Los parámetros predeterminados se asignan automáticamente a nombres descriptivos. Las variables [prop y eVar](https://experiencecloud.adobe.com/resources/help/es_ES/sc/implement/props_eVars.html) se pueden asignar a sus nombres descriptivos personalizados (por ejemplo, “prop1” podría mostrarse como “Tipo de usuario”) si se autentica con la función “Análisis de vínculos” (ver a continuación). Las solicitudes se muestran en secuencia de izquierda a derecha.
+Esta pantalla muestra todas las solicitudes desde que se abrió Debugger o se borraron las solicitudes. Los parámetros predeterminados se asignan automáticamente a nombres descriptivos. Las variables [prop y eVar](https://docs.adobe.com/content/help/en/analytics/implementation/vars/page-vars/evar.html) se pueden asignar a sus nombres descriptivos personalizados (por ejemplo, “prop1” podría mostrarse como “Tipo de usuario”) si se autentica con la función “Análisis de vínculos” (ver a continuación). Las solicitudes se muestran en secuencia de izquierda a derecha.
 
 **Descargar:** Guarde todas las solicitudes realizadas en el grupo de informes como una hoja de cálculo de Excel.
 
@@ -59,7 +59,7 @@ Para la mayoría de las implementaciones de Analytics, la información de reglas
 
 ## Target {#section-988873ba5ede4317953193bd7ac5474c}
 
-Utilice la pestaña Target para ver las solicitudes de [Target](https://docs.adobe.com/content/help/es-ES/target/using/target-home.html) o los detalles de respuesta de [seguimiento de mbox](https://docs.adobe.com/content/help/es-ES/target/using/activities/troubleshoot-activities/content-trouble.html).
+Utilice la pestaña Target para ver las solicitudes de [Target](https://docs.adobe.com/content/help/en/target/using/target-home.html) o los detalles de respuesta de [seguimiento de mbox](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html).
 
 Haga clic en **[!UICONTROL Requests]** y expanda el entorno para ver información sobre Target.
 
@@ -67,33 +67,33 @@ Haga clic en **[!UICONTROL Requests]** y expanda el entorno para ver informació
 
 Haga clic en **[!UICONTROL Clear All Requests]** para eliminar las solicitudes que se muestran actualmente. Se mostrarán más solicitudes a medida que se realicen.
 
-También puede utilizar el filtro de Target para [habilitar el seguimiento de MBox para fines de depuración de Target](https://docs.adobe.com/content/help/es-ES/target/using/activities/troubleshoot-activities/content-trouble.html).
+También puede utilizar el filtro de Target para [habilitar el seguimiento de MBox para fines de depuración de Target](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html).
 
 Debe tener una pestaña de Chrome abierta que esté autenticada en Experience Cloud para habilitar el seguimiento de mbox. Una vez activado, muestra el nombre de usuario de su Adobe ID. Amplíe su nombre de usuario para mostrar los códigos de cliente de Target asociados con las organizaciones de Experience Cloud a las que tiene acceso. Haga clic en el código de cliente para el que desea habilitar el seguimiento de mbox y confirme que aparece la marca de verificación verde. Ahora aparecerán todas las solicitudes de Target con información de seguimiento de mbox, agrupadas por código de cliente. Para explorar la información de seguimiento de mbox, expanda la solicitud para ver las pestañas:
 
-* [Actividades](https://docs.adobe.com/content/help/es-ES/target/using/activities/activities.html)  La pestaña Actividades muestra todas las actividades asociadas al nombre de la solicitud de Target, independientemente de si cumple los requisitos para la actividad. “Actividades coincidentes” son las actividades para las que reúne los requisitos y cuyas ofertas se entregaron en la respuesta. Puede ampliar el nombre de la actividad para confirmar la experiencia en la que se encuentra y las audiencias y condiciones de segmentación que cumplen los requisitos para la actividad. “Actividades evaluadas” son todas las actividades evaluadas, independientemente de si reúne los requisitos o no. Para solucionar el problema por el que no se cumplen los requisitos para una actividad “Evaluada” pero no “Coincidente”, expanda el nombre de la actividad y revise la sección “Audiencias no coincidentes”.
+* [Actividades](https://docs.adobe.com/content/help/en/target/using/activities/activities.html)  La pestaña Actividades muestra todas las actividades asociadas al nombre de la solicitud de Target, independientemente de si cumple los requisitos para la actividad. “Actividades coincidentes” son las actividades para las que reúne los requisitos y cuyas ofertas se entregaron en la respuesta. Puede ampliar el nombre de la actividad para confirmar la experiencia en la que se encuentra y las audiencias y condiciones de segmentación que cumplen los requisitos para la actividad. “Actividades evaluadas” son todas las actividades evaluadas, independientemente de si reúne los requisitos o no. Para solucionar el problema por el que no se cumplen los requisitos para una actividad “Evaluada” pero no “Coincidente”, expanda el nombre de la actividad y revise la sección “Audiencias no coincidentes”.
 
 * Solicitud
 
-   La pestaña de solicitud de [Seguimiento de mbox](https://docs.adobe.com/content/help/es-ES/target/using/activities/troubleshoot-activities/content-trouble.html) es similar a la pestaña de solicitud principal. Puede ver todos los parámetros pasados por la solicitud de Target, además de los encabezados de solicitud.
+   La pestaña de solicitud de [Seguimiento de mbox](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) es similar a la pestaña de solicitud principal. Puede ver todos los parámetros pasados por la solicitud de Target, además de los encabezados de solicitud.
 * Perfil
 
-   Expanda la sección Instantánea de perfil para ver la [información de perfil](https://docs.adobe.com/content/help/es-ES/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html) almacenada sobre usted como visitante en la base de datos de perfiles de Target. Aquí se exponen todos los perfiles en mbox y de secuencia de comandos, así como algunos perfiles del sistema. La columna Estado muestra qué perfiles han cambiado en el ámbito de esta solicitud, así como sus valores antes y después de que la solicitud ingresara al sistema de perfiles.
+   Expanda la sección Instantánea de perfil para ver la [información de perfil](https://docs.adobe.com/content/help/en/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html) almacenada sobre usted como visitante en la base de datos de perfiles de Target. Aquí se exponen todos los perfiles en mbox y de secuencia de comandos, así como algunos perfiles del sistema. La columna Estado muestra qué perfiles han cambiado en el ámbito de esta solicitud, así como sus valores antes y después de que la solicitud ingresara al sistema de perfiles.
 * Audience Manager
 
-   Las secciones “segmentIds” y “cachedSegmentIds” de la pestaña Audience Manager muestran los ID de [audiencias](https://docs.adobe.com/content/help/es-ES/target/using/audiences/target.html) compartidas de Experience Cloud a Target y para las que reúne las condiciones. Pueden ser audiencias creadas en Audience Manager, Analytics o el generador de audiencias en el servicio principal People. Estos ID se pueden buscar en la interfaz de usuario de Audience Manager para encontrar el nombre de la audiencia.
+   Las secciones “segmentIds” y “cachedSegmentIds” de la pestaña Audience Manager muestran los ID de [audiencias](https://docs.adobe.com/content/help/en/target/using/audiences/target.html) compartidas de Experience Cloud a Target y para las que reúne las condiciones. Pueden ser audiencias creadas en Audience Manager, Analytics o el generador de audiencias en el servicio principal People. Estos ID se pueden buscar en la interfaz de usuario de Audience Manager para encontrar el nombre de la audiencia.
 
 El siguiente vídeo muestra la funcionalidad general de Target:
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
 
 El siguiente vídeo muestra el seguimiento de mbox:
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
-Utilice la pestaña [Audience Manager](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/aam-home.html) para ver los detalles de los [eventos](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html). Haga clic en la organización para expandirla y mostrar la información.
+Utilice la pestaña [Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html) para ver los detalles de los [eventos](https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html). Haga clic en la organización para expandirla y mostrar la información.
 
 ![](assets/audience-manager.jpg)
 
@@ -105,7 +105,7 @@ La sincronización de ID es el primer paso en el proceso de transferencia de dat
 
 ![](assets/aam-idsync.jpg)
 
-Consulte [Sincronización de ID para transferencias de datos de entrada](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.translate.html) en la documentación del producto de Audience Manager para obtener más información.
+Consulte [Sincronización de ID para transferencias de datos de entrada](https://docs.adobe.com/content/help/en/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html) en la documentación del producto de Audience Manager para obtener más información.
 
 ## Advertising Cloud {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
@@ -117,7 +117,7 @@ Haga clic en **[!UICONTROL Clear All Requests]** para eliminar las solicitudes q
 
 ## Servicio Experience Cloud ID {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
-Utilice la pestaña Servicio de ID de Experience Cloud para ver las solicitudes del [servicio de Experience Cloud ID](https://experiencecloud.adobe.com/resources/help/es_ES/mcvid/).
+Utilice la pestaña Servicio de ID de Experience Cloud para ver las solicitudes del [servicio de Experience Cloud ID](https://docs.adobe.com/content/help/en/id-service/using/home.html).
 
 Haga clic en **[!UICONTROL Requests]** y, a continuación, expanda el entorno para ver información sobre el servicio de Experience Cloud ID.
 

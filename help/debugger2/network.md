@@ -5,17 +5,17 @@ seo-description: 'null'
 seo-title: Información de red
 title: Información de red
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
-# Red{#network}
+# Red {#network}
 
 > [!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 está actualmente en versión beta. La documentación y la funcionalidad están sujetas a cambios.
+> Adobe Experience Cloud Debugger 2.0 se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
 
 Para ver la información de red, haga clic en **[!UICONTROL Network]**.
 
@@ -29,7 +29,7 @@ Esta pantalla es útil para comparar pares de valor clave entre visitas individu
 >
 >En este momento, no todos los parámetros pasados en las llamadas de solución (por ejemplo, variables de contexto de Analytics, parámetros personalizados de Target o ID de cliente del servicio de Experience Cloud ID) están visibles en la pantalla Red.
 
-Para cambiar la información por solución, seleccione la solución que desee vista desde la lista en la navegación izquierda. El siguiente ejemplo se filtra para mostrar solo Analytics:
+Para cambiar la información por solución, seleccione la solución que desee ver en la lista de la navegación izquierda. El siguiente ejemplo se filtra para mostrar solo Analytics:
 
 ![](assets/network-analytics.jpg)
 

@@ -5,17 +5,17 @@ seo-description: 'Documentación técnica para la extensión de Chrome y Firefox
 seo-title: Extensión de Adobe Experience Platform Debugger para Chrome y Firefox
 title: Extensión de Adobe Experience Platform Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: ht
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+translation-type: tm+mt
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # (Beta) Adobe Experience Platform Debugger 2.0 {#adobe-experience-platform-debugger}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
+>Adobe Experience Cloud Debugger 2.0 se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
 
 [Adobe Experience Platform Debugger para Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) y [Firefox](https://addons.mozilla.org/es/firefox/addon/adobe-experience-platform-dbg/) examinan sus páginas web y le permiten encontrar problemas con la implementación de las soluciones de Experience Cloud.
 

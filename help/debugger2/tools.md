@@ -5,17 +5,17 @@ seo-description: 'null'
 seo-title: Herramientas
 title: Herramientas
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: ht
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+translation-type: tm+mt
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Herramientas {#tools}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
+>Adobe Experience Cloud Debugger 2.0 se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
 
 En la pantalla Herramientas, puede habilitar o deshabilitar varias herramientas para la solución instalada. Por ejemplo, puede activar las sentencias de depuración de la consola de Target o utilizar la biblioteca de ensayo de la DTM. Estas herramientas solo están disponibles si Target y DTM están instalados en la página.
 
@@ -85,4 +85,4 @@ Puede Insertar Launch o DTM de forma dinámica en cualquier página para probar 
 
 En el siguiente vídeo se explica cómo utilizar la extensión de Debugger con Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)

@@ -5,17 +5,17 @@ seo-description: 'null'
 seo-title: Registros
 title: Registros
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+translation-type: tm+mt
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Registros {#logs}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
+>Adobe Experience Cloud Debugger 2.0 se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
 
 La pantalla Registros proporciona información específica sobre las implementaciones de DTM, Launch y SDK web de AEP. No es necesario habilitar la herramienta de depuración de consola para DTM para mostrar esta información. Puede filtrar por soluciones implementadas mediante las herramientas de asociadas.
 

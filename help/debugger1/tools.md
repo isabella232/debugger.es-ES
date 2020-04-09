@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Herramientas
 title: Herramientas
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
@@ -17,7 +17,7 @@ En la pantalla Herramientas, puede habilitar o deshabilitar varias herramientas 
 
 ![](assets/tools.jpg)
 
-Puede Insertar Launch o DTM de forma dinámica en cualquier página para probar algo en una página que no tenga instalado Launch o DTM. Haga clic en el icono **[!UICONTROL Embed Code]**, luego escriba el [código incrustado](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html) y haga clic en **[!UICONTROL Save]**.
+Puede Insertar Launch o DTM de forma dinámica en cualquier página para probar algo en una página que no tenga instalado Launch o DTM. Haga clic en el icono **[!UICONTROL Embed Code]**, luego escriba el [código incrustado](https://docs.adobe.com/content/help/es-ES/dtm/using/client-side/deployment.html) y haga clic en **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
@@ -70,7 +70,7 @@ Puede Insertar Launch o DTM de forma dinámica en cualquier página para probar 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Deshabilitar Target </p> </td> 
-   <td colname="col2"> <p>Esta herramienta deshabilita todas las solicitudes de Target al agregar una cookie denominada <span class="codeph"> mboxDisable=true</span> a su explorador. </p> <p> Esta herramienta requiere at.js 0.9.6 o versiones posteriores. Si utiliza una versión anterior, puede agregar el parámetro de cadena de consulta <span class="codeph"> ?mboxDisable=true </span>a la dirección URL para deshabilitar los mboxes. </p> </td> 
+   <td colname="col2"> <p>Esta herramienta deshabilita todas las solicitudes de Target al agregar una cookie denominada <span class="codeph">mboxDisable=true</span> a su explorador. </p> <p> Esta herramienta requiere at.js 0.9.6 o versiones posteriores. Si utiliza una versión anterior, puede agregar el parámetro de cadena de consulta <span class="codeph"> ?mboxDisable=true </span>a la dirección URL para deshabilitar los mboxes. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Resaltado de mbox </p> </td> 
@@ -81,4 +81,4 @@ Puede Insertar Launch o DTM de forma dinámica en cualquier página para probar 
 
 En el siguiente vídeo se explica cómo utilizar la extensión de Debugger con Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=spa)

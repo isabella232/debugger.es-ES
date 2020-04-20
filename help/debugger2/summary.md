@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Pantalla de resumen
 title: Pantalla de resumen
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -49,7 +49,7 @@ Debugger muestra la siguiente información para cada solución:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nombre de la página </p> </td> 
-   <td colname="col2"> <p>Variable <a href="https://experiencecloud.adobe.com/resources/help/es_ES/sc/implement/pageName.html" format="html" scope="external">pageName</a> enviada a Analytics que contiene un nombre descriptivo del sitio. </p> </td> 
+   <td colname="col2"> <p>Variable <a href="https://docs.adobe.com/content/help/es-ES/analytics/implementation/vars/page-vars/page-variables.html " format="html" scope="external">pageName</a> enviada a Analytics que contiene un nombre descriptivo del sitio. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Módulos </p> </td> 

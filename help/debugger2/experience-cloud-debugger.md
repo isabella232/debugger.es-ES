@@ -5,8 +5,11 @@ seo-description: 'Documentación técnica para la extensión de Chrome y Firefox
 seo-title: Extensión de Adobe Experience Platform Debugger para Chrome y Firefox
 title: Extensión de Adobe Experience Platform Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 3a5b0b6d2d7dc18113c5909b878c882cf803bba6
+workflow-type: tm+mt
+source-wordcount: '307'
+ht-degree: 100%
 
 ---
 
@@ -36,3 +39,7 @@ Use Debugger para recopilar información que le ayudará a comprender cómo se i
 
 * **Launch:** Ver qué propiedad, entorno y compilación se implementan en una página.
 * **Target:** Consulte para qué actividades cumple o no los requisitos y por qué.
+
+## Tutorial de vídeo
+
+[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)

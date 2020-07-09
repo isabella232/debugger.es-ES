@@ -6,9 +6,9 @@ seo-title: Pantalla de resumen
 title: Pantalla de resumen
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+source-git-commit: f35d87473f9e1e26f9a27272d7930472cc01c188
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '940'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,7 @@ Aparece la pantalla Resumen de Adobe Experience Platform Debugger.
 
 Esta pantalla muestra información sobre cada solución de Adobe Experience Cloud. La información mostrada varía según la solución, pero generalmente incluye información como la biblioteca y la versión de la solución (por ejemplo, “AppMeasurement v2.9”) e identificadores de cuenta (como el ID del grupo de informes de Analytics, el código de cliente de Target, el ID del socio de Audience Manager, etc.).
 
-## Información mostrada en Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Información mostrada en Debugger
 
 Debugger muestra la siguiente información para cada solución:
 
@@ -86,19 +86,19 @@ Debugger muestra la siguiente información para cada solución:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nombre </p> </td> 
-   <td colname="col2"> <p>Nombre de la <a href="https://docs.adobelaunch.com/administration/companies-and-properties" format="https" scope="external">propiedad</a> de Adobe Launch. </p> </td> 
+   <td colname="col2"> <p>Nombre de la <a href="https://docs.adobe.com/content/help/es-ES/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">propiedad</a> de Adobe Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versión </p> </td> 
-   <td colname="col2"> <p>La versión de <a href="https://developer.adobelaunch.com/guides/extensions/turbine-free-variable/" format="https" scope="external"> Turbine</a>. </p> </td> 
+   <td colname="col2"> <p>La versión de Turbine</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Fecha de compilación </p> </td> 
-   <td colname="col2"> <p>Fecha de compilación de la <a href="https://docs.adobelaunch.com/publishing/libraries" format="https" scope="external"> biblioteca</a> de Launch. </p> </td> 
+   <td colname="col2"> <p>Fecha de compilación de la <a href="https://docs.adobe.com/content/help/es-ES/launch/using/reference/publish/libraries.html" format="https" scope="external"> biblioteca</a> de Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Entorno </p> </td> 
-   <td colname="col2"> <p>El <a href="https://docs.adobelaunch.com/administration/environments" format="https" scope="external"> entorno</a> utilizado por la biblioteca de Launch. </p> </td> 
+   <td colname="col2"> <p>El <a href="https://docs.adobe.com/content/help/es-ES/launch/using/reference/publish/environments.html" format="https" scope="external"> entorno</a> utilizado por la biblioteca de Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Extensiones </p> </td> 

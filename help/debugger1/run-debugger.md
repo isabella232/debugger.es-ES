@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debugger en ejecución
+description: Ejecución de Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Experience Cloud Debugger en ejecución
+seo-description: Ejecución de Experience Cloud Debugger
 seo-title: Pantalla de resumen
 title: Pantalla de resumen
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1035'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -53,7 +53,7 @@ Debugger muestra la siguiente información para cada solución:
    <td colname="col2"> <p>Dirección URL de la página </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Title </p> </td> 
+   <td colname="col1"> <p>Título </p> </td> 
    <td colname="col2"> <p>El nombre especificado en la etiqueta <span class="codeph"> &lt;TITLE&gt;</span> </p> </td> 
   </tr> 
  </tbody> 
@@ -73,7 +73,7 @@ Debugger muestra la siguiente información para cada solución:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versión del visitante </p> </td> 
-   <td colname="col2"> <p>Versión de la biblioteca de <a href="https://docs.adobe.com/content/help/es-ES/analytics/technotes/visitor-identification.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
+   <td colname="col2"> <p>Versión de la biblioteca de <a href="https://docs.adobe.com/content/help/es-ES/analytics/components/metrics/unique-visitors.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nombre de la página </p> </td> 
@@ -123,11 +123,11 @@ Debugger muestra la siguiente información para cada solución:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Entorno </p> </td> 
-   <td colname="col2"> <p>El <a href="https://docs.adobe.com/content/help/es-ES/launch/using/reference/publish/environments.html" format="https" scope="external"> entorno</a> utilizado por la biblioteca de Launch </p> </td> 
+   <td colname="col2"> <p>El <a href="https://docs.adobe.com/content/help/es-ES/launch/using/reference/publish/environments.html" format="https" scope="external"> entorno</a> utilizado por la biblioteca de Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Directorio de scripts </p> </td> 
-   <td colname="col2"> <p>El directorio en el que se almacena el script de Launch </p> </td> 
+   <td colname="col2"> <p>El directorio en el que se almacena el script de Launch. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -138,11 +138,11 @@ Debugger muestra la siguiente información para cada solución:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nombre de la biblioteca </p> </td> 
-   <td colname="col2"> <p>Nombre de la <a href="https://docs.adobe.com/content/help/es-ES/dtm/using/library-management.html" format="html" scope="external">biblioteca</a> de Adobe DTM </p> </td> 
+   <td colname="col2"> <p>Nombre de la <a href="https://docs.adobe.com/content/help/es-ES/dtm/using/library-management.html" format="html" scope="external">biblioteca</a> de Adobe DTM. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versión </p> </td> 
-   <td colname="col2"> <p>La versión de Turbine </p> </td> 
+   <td colname="col2"> <p>La versión de Turbine. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Fecha de compilación </p> </td> 
@@ -150,11 +150,11 @@ Debugger muestra la siguiente información para cada solución:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Entorno </p> </td> 
-   <td colname="col2"> <p>El entorno utilizado por la biblioteca de la DTM </p> </td> 
+   <td colname="col2"> <p>El entorno utilizado por la biblioteca de la DTM. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Directorio de scripts </p> </td> 
-   <td colname="col2"> <p>El directorio en el que se almacena el script de la DTM </p> </td> 
+   <td colname="col2"> <p>El directorio en el que se almacena el script de la DTM. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -169,7 +169,7 @@ Debugger muestra la siguiente información para cada solución:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versión </p> </td> 
-   <td colname="col2"> <p>Versión de la biblioteca de <a href="https://docs.adobe.com/content/help/es-ES/analytics/technotes/visitor-identification.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
+   <td colname="col2"> <p>Versión de la biblioteca de <a href="https://docs.adobe.com/content/help/es-ES/analytics/components/metrics/unique-visitors.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -184,11 +184,11 @@ Debugger muestra la siguiente información para cada solución:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versión </p> </td> 
-   <td colname="col2"> <p>Su versión actual de <a href="https://docs.adobe.com/content/help/es-ES/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external"> at.js</a> o mbox.js </p> </td> 
+   <td colname="col2"> <p>Su versión actual de <a href="https://docs.adobe.com/content/help/es-ES/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external"> at.js</a> o mbox.js. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nombre de mbox global </p> </td> 
-   <td colname="col2"> <p>El <a href="https://docs.adobe.com/help/es-ES/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">mbox global</a> hace referencia a la llamada al servidor única que se realiza sobre cada página web de la implementación de Target </p> </td> 
+   <td colname="col2"> <p>El <a href="https://docs.adobe.com/help/es-ES/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">mbox global</a> hace referencia a la llamada al servidor única que se realiza sobre cada página web de la implementación de Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nombre de mbox </p> </td> 

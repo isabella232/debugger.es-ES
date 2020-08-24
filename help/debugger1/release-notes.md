@@ -1,15 +1,15 @@
 ---
-description: Notas de la versión para Experience Cloud Debugger
+description: Notas de la versión de Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;release notes
-seo-description: Notas de la versión para Experience Cloud Debugger
+seo-description: Notas de la versión de Experience Cloud Debugger
 seo-title: Notas de la versión
 title: Notas de la versión
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '699'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -51,21 +51,21 @@ ht-degree: 98%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Pruebas de Auditor </p> </td> 
-   <td colname="col2"> <p> Se agregaron <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> pruebas de Auditor</a> a Debugger </p> </td> 
+   <td colname="col2"> <p> Se agregaron <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> pruebas de Auditor</a> a Debugger. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>Debugger ahora muestra respuestas AAM </p> </td> 
+   <td colname="col2"> <p>Debugger ahora muestra respuestas AAM. </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Correcciones de errores {#section-f5e9d54e9d2546afb97972cdb6d8a093}
 
-* Se ha corregido un problema en el cual el pie de página ocultaba contenido en la parte inferior de la página
+* Se ha corregido un problema en el cual el pie de página ocultaba contenido en la parte inferior de la página.
 
-* Se ha actualizado el pie de página de Debugger
-* Se ha corregido un problema que hacía que se usara una terminología obsoleta en Target
+* Se ha actualizado el pie de página de Debugger.
+* Se ha corregido un problema que hacía que se usara una terminología obsoleta en Target.
 
 ## Versión 0.0.809, 28 de febrero de 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
 
@@ -92,10 +92,10 @@ ht-degree: 98%
 
 ## Correcciones de errores {#section-556417ff055848c1bf037354dd43cbd0}
 
-* Se ha corregido un problema que hacía que los eventos DIL de AAM no se guardaran en la pestaña AAM
+* Se ha corregido un problema que hacía que los eventos DIL de AAM no se guardaran en la pestaña AAM.
 
-* Se ha corregido un problema en Insertar Launch de forma dinámica en el que la interfaz de usuario parecía asignarse a un código incrustado diferente cuando no era el caso
-* Se ha corregido un problema en Insertar Launch de forma dinámica en el cual se mostraba una dirección URL incorrecta
+* Se ha corregido un problema en Insertar Launch de forma dinámica en el que la interfaz de usuario parecía asignarse a un código incrustado diferente cuando no era el caso.
+* Se ha corregido un problema en Insertar Launch de forma dinámica en el cual se mostraba una dirección URL incorrecta.
 * Se ha corregido un problema en el cual Debugger reemplazaba los códigos incrustados incluso cuando se cerraba la ventana de Debugger.
 
 ## Versión 0.0.806, 10 de septiembre de 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
@@ -123,7 +123,7 @@ ht-degree: 98%
    <td colname="col2"> <p> 
      <ul id="ul_5FCD61733462495D8FB421DE7C813001"> 
       <li id="li_2E8E9AAE5D0D41DC8C42592AFDFA3377">Se han agregado tiempos de rendimiento para solicitudes de Target. </li> 
-      <li id="li_98A56E71D72542D694A76DF84CE26AFA">Guardar adobe.target.trackEvent </li> 
+      <li id="li_98A56E71D72542D694A76DF84CE26AFA">Guardar adobe.target.trackEvent. </li> 
      </ul> </p> </td> 
   </tr> 
  </tbody> 
@@ -136,10 +136,10 @@ ht-degree: 98%
 
 ## Correcciones de errores {#section-d9231f5c77254d0888347e5f569a8b1d}
 
-* Se ha solucionado un problema en el que la pestaña Experience Cloud no se actualizaba
+* Se ha solucionado un problema en el que la pestaña Experience Cloud no se actualizaba.
 
-* Se ha corregido un problema en el cual “Media Optimizer” se mostraba en la fila Solución de la pestaña Red, en lugar del nombre actual “Advertising Cloud”
-* Se ha corregido un problema que provocaba que Debugger inyectara _satellite en todas las páginas
+* Se ha corregido un problema en el cual “Media Optimizer” se mostraba en la fila Solución de la pestaña Red, en lugar del nombre actual “Advertising Cloud”.
+* Se ha corregido un problema que provocaba que Debugger inyectara _satellite en todas las páginas.
 
 ## Versión 0.0.803, 10 de agosto de 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
@@ -159,27 +159,27 @@ La versión 0.0.803 no incluye ningún cambio de cara al cliente.
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Vínculo del auditor en la pestaña Herramientas </p> </td> 
-   <td colname="col2"> <p>Se ha agregado un vínculo al Auditor desde Debugger </p> </td> 
+   <td colname="col2"> <p>Se ha agregado un vínculo al Auditor desde Debugger. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Pestañas contraídas </p> </td> 
-   <td colname="col2"> <p>Las pestañas contraídas persisten en las pestañas Resumen y Herramienta </p> </td> 
+   <td colname="col2"> <p>Las pestañas contraídas persisten en las pestañas Resumen y Herramienta. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Haga clic para ver </p> </td> 
-   <td colname="col2"> <p> Se ha agregado la funcionalidad de hacer clic para ver a todas las pestañas </p> </td> 
+   <td colname="col2"> <p> Se ha agregado la funcionalidad de hacer clic para ver a todas las pestañas. </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Mejoras {#section-0e7090e3e6a645f085d4553b983ecff8}
 
-* Se ha cambiado el nombre de Media Optimizer a Advertising Cloud
-* Se han eliminado las soluciones de la pestaña Red si no se encuentran
+* Se ha cambiado el nombre de Media Optimizer a Advertising Cloud.
+* Se han eliminado las soluciones de la pestaña Red si no se encuentran.
 
 ## Correcciones de errores {#section-7c0e4cc4b00a428489bed4a0a27c9501}
 
-* Se ha corregido un problema en el cual la función “Haga clic para ver” no se actualizaba
+* Se ha corregido un problema en el cual la función “Haga clic para ver” no se actualizaba.
 * Se ha corregido un problema que hacía que las visitas de AAM no se mostraran en la pestaña de AAM.
 
 ## Versión 0.0.798, 14 de junio de 2018 {#topic-3b2d44277f2f4c0295d82724c34bf467}
@@ -214,10 +214,10 @@ La versión 0.0.803 no incluye ningún cambio de cara al cliente.
    <td colname="col1"> <p>Vaciar la pestaña Registros </p> </td> 
    <td colname="col2"> <p> 
      <ul id="ul_D1EB0BE3A01C494983DAAF625562AC62"> 
-      <li id="li_2696D26320F54A089D3CC99962EC9670">Ocultar soluciones en el Filtro de soluciones si no se encuentran elementos de línea para esa solución en los registros </li> 
-      <li id="li_D4586A6AB2AD42BB9F0FA3E7A01382C6">Ocultar el Filtro de nivel si no se encuentran llamadas de la DTM, ya que solo se aplica a la DTM </li> 
-      <li id="li_E2AF179037DC4C63B960013AB1F9AD6A">Cambiar los iconos que se muestran en la columna Nivel para que no parezca que se pueda hacer clic en ellos cuando no es el caso </li> 
-      <li id="li_3DB6682D6C9040D99F04C688E208CE1F">Estandarizar el formato de “Mostrar código” en los elementos de línea de la DTM </li> 
+      <li id="li_2696D26320F54A089D3CC99962EC9670">Ocultar soluciones en el Filtro de soluciones si no se encuentran elementos de línea para esa solución en los registros. </li> 
+      <li id="li_D4586A6AB2AD42BB9F0FA3E7A01382C6">Ocultar el Filtro de nivel si no se encuentran llamadas de la DTM, ya que solo se aplica a la DTM. </li> 
+      <li id="li_E2AF179037DC4C63B960013AB1F9AD6A">Cambiar los iconos que se muestran en la columna Nivel para que no parezca que se pueda hacer clic en ellos cuando no es el caso. </li> 
+      <li id="li_3DB6682D6C9040D99F04C688E208CE1F">Estandarizar el formato de “Mostrar código” en los elementos de línea de la DTM. </li> 
      </ul> </p> </td> 
   </tr> 
   <tr> 
@@ -229,8 +229,8 @@ La versión 0.0.803 no incluye ningún cambio de cara al cliente.
 
 ## Correcciones de errores {#section-c292cf7dcb17463bb1928de73bd55121}
 
-* Se ha corregido un problema por el cual el número de distintivo no se borraba
-* Se ha corregido un problema por el cual un cliente informaba de detalles de resumen en blanco
+* Se ha corregido un problema por el cual el número de distintivo no se borraba.
+* Se ha corregido un problema por el cual un cliente informaba de detalles de resumen en blanco.
 
 ## Versión 0.0.797, 25 de mayo de 2018 {#topic-51490f4f42aa40eb879663fad9d62916}
 
@@ -245,8 +245,8 @@ La versión 0.0.803 no incluye ningún cambio de cara al cliente.
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Toggles de Mbox </p> </td> 
-   <td colname="col2"> <p>Se han agregado toggles de mbox a la pestaña Target </p> </td> 
+   <td colname="col1"> <p>Toggles de  Mbox </p> </td> 
+   <td colname="col2"> <p>Se han agregado toggles de mbox a la pestaña Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>La configuración de filtro ahora se fija </p> </td> 

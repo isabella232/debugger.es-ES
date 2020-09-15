@@ -5,9 +5,9 @@ sub-product: Experience Cloud Debugger
 audience: end-user
 user-guide-title: Ayuda de Experience Cloud Debugger
 breadcrumb-title: Debugger Guide
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dc7588274f4917ee8c7c35653f9a177fdd9f07f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '30'
 ht-degree: 100%
 

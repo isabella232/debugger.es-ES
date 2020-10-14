@@ -1,27 +1,27 @@
 ---
-cloud: experience-cloud
-product: experience cloud
-sub-product: experience cloud debugger 2.0
+cloud: experience-platform
+product: experience platform
+sub-product: 'depurador de plataforma de experiencia '
 audience: end-user
-user-guide-title: Ayuda de Experience Cloud Debugger 2.0
-user-guide-description: Examine your web pages for problems with your Experience Platform implementations.
-breadcrumb-title: Debugger 2.0 Guide
+user-guide-title: Ayuda de Experience Platform Debugger
+user-guide-description: Examine las páginas web para ver si hay problemas con las implementaciones de Experience Platform.
+breadcrumb-title: Guía del depurador de plataformas
 index: true
-translation-type: ht
-source-git-commit: 89781a342e467513b244240c171fc5bad040ca35
-workflow-type: ht
-source-wordcount: '31'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '47'
+ht-degree: 53%
 
 ---
 
 
-# Ayuda de Experience Cloud Debugger 2.0 {#using-v2}
+# Experience Platform Debugger Help {#using-v2}
 
-+ [Extensión de Adobe Experience Cloud Debugger](experience-cloud-debugger.md)
++ [Extensión de Adobe Experience Platform Debugger](experience-cloud-debugger.md)
 + [Notas de la versión](release-notes.md)
-+ [Instalar Adobe Experience Cloud Debugger](install-debugger.md)
-+ [Configurar Debugger](configure-debugger.md)
++ [Instalar Experience Platform Debugger](install-debugger.md)
++ [Configurar Experience Platform Debugger](configure-debugger.md)
 + [Pantalla de resumen](summary.md)
 + [Soluciones](solutions.md)
 + [Registros](logs.md)

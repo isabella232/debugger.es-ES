@@ -1,14 +1,14 @@
 ---
-description: Pantalla de eventos de Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: Pantalla de eventos de Experience Cloud Debugger
+description: Pantalla Eventos del depurador de Experience Platform
+keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+seo-description: Pantalla Eventos del depurador de Experience Platform
 seo-title: Eventos
 title: Eventos
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '172'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '169'
+ht-degree: 89%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
+>Adobe Experience Platform Debugger está actualmente en versión beta. La documentación y las funciones están sujetas a cambios.
 
 La pantalla Eventos proporciona una vista gráfica de los eventos que se producen y que se muestran en una cronología.
 
 ![](assets/events.jpg)
 
-Para cada evento, aparece un icono para la solución de Experience Cloud aplicable en la cronología. Los iconos también muestran cambios en la capa de datos (si está activada). Pase el ratón sobre un icono para ver un resumen del evento. Haga clic en el evento para obtener más información. Puede pulsar Mayús + clic o Ctrl + clic para ver varios eventos.
+Para cada evento, aparece un icono para la solución de aplicable en la cronología. Los iconos también muestran cambios en la capa de datos (si está activada). Pase el ratón sobre un icono para ver un resumen del evento. Haga clic en el evento para obtener más información. Puede pulsar Mayús + clic o Ctrl + clic para ver varios eventos.
 
 ![](assets/events-details.jpg)
 

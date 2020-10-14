@@ -1,15 +1,15 @@
 ---
-description: Pantalla de registros de Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;logs
-seo-description: Pantalla de registros de Experience Cloud Debugger
+description: Pantalla Registros de Experience Platform Debugger
+keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
+seo-description: Pantalla Registros de Experience Platform Debugger
 seo-title: Registros
 title: Registros
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 88%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
+>Adobe Experience Platform Debugger está actualmente en versión beta. La documentación y las funciones están sujetas a cambios.
 
 La pantalla Registros proporciona información específica sobre las implementaciones de DTM, Launch y SDK web de AEP. No es necesario habilitar la herramienta de depuración de consola para DTM para mostrar esta información. Puede filtrar por soluciones implementadas mediante las herramientas de asociadas.
 

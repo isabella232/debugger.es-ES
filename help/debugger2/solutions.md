@@ -1,12 +1,15 @@
 ---
-description: Uso de las pestañas de solución en Adobe Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
-seo-description: Uso de las pestañas de solución en Adobe Debugger
-seo-title: Pestañas de solución en Adobe Debugger
+description: Uso de las fichas Solución en Adobe Experience Platform Debugger
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
+seo-description: 'Uso de las fichas Solución en Adobe Experience Platform Debugger '
+seo-title: 'Fichas de soluciones en Adobe Experience Platform Debugger '
 title: Pestañas de solución
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 82%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
+>Adobe Experience Platform Debugger está actualmente en versión beta. La documentación y las funciones están sujetas a cambios.
 
 Haga clic en una solución para ver los resultados de soluciones específicas de Adobe Experience Cloud.
 
@@ -39,7 +42,7 @@ Utilice la pestaña [Audience Manager](https://docs.adobe.com/content/help/es-ES
 
 ## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Utilice la sección Launch para ver las solicitudes de Launch. También puede hacer clic en **[!UICONTROL Configuration]** para configurar los [códigos incrustados](https://docs.adobe.com/content/help/es-ES/launch/using/reference/upgrade/link-dtm-embed-code.html). Puede editar, reemplazar o agregar más códigos incrustados desde Debugger. Si inicia sesión, puede seleccionar una propiedad alternativa mediante los menús desplegables.
+Utilice la sección Launch para ver las solicitudes de Launch. También puede hacer clic en **[!UICONTROL Configuration]** para configurar los [códigos incrustados](https://docs.adobe.com/content/help/es-ES/launch/using/reference/upgrade/link-dtm-embed-code.html). Puede editar, reemplazar o agregar más códigos incrustados desde Experience Platform Debugger. Si inicia sesión, puede seleccionar una propiedad alternativa mediante los menús desplegables.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 

@@ -1,14 +1,14 @@
 ---
-description: Pantalla Eventos del depurador de Experience Platform
+description: Pantalla de eventos de Experience Platform Debugger
 keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
-seo-description: Pantalla Eventos del depurador de Experience Platform
+seo-description: Pantalla de eventos de Experience Platform Debugger
 seo-title: Eventos
 title: Eventos
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 89%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger está actualmente en versión beta. La documentación y las funciones están sujetas a cambios.
+>Adobe Experience Platform Debugger se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
 
 La pantalla Eventos proporciona una vista gráfica de los eventos que se producen y que se muestran en una cronología.
 

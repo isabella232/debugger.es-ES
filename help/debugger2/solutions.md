@@ -1,15 +1,15 @@
 ---
-description: Uso de las fichas Solución en Adobe Experience Platform Debugger
+description: Uso de las pestañas de solución en Adobe Experience Platform Debugger
 keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
-seo-description: 'Uso de las fichas Solución en Adobe Experience Platform Debugger '
-seo-title: 'Fichas de soluciones en Adobe Experience Platform Debugger '
+seo-description: 'Uso de las pestañas de solución en Adobe Experience Platform Debugger '
+seo-title: 'Pestañas de solución en Adobe Experience Platform Debugger '
 title: Pestañas de solución
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 82%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger está actualmente en versión beta. La documentación y las funciones están sujetas a cambios.
+>Adobe Experience Platform Debugger se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
 
 Haga clic en una solución para ver los resultados de soluciones específicas de Adobe Experience Cloud.
 

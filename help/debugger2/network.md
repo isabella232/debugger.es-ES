@@ -1,15 +1,15 @@
 ---
-description: Pantalla de red de Experience Platform Debugger
+description: Pantalla de conexiones de Experience Platform Debugger
 keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
-seo-description: Pantalla de red de Experience Platform Debugger
+seo-description: Pantalla de conexiones de Experience Platform Debugger
 seo-title: Información de red
 title: Información de red
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '227'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 92%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger está actualmente en versión beta. La documentación y las funciones están sujetas a cambios.
+>Adobe Experience Platform Debugger se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
 
 Para ver la información de red, haga clic en **[!UICONTROL Network]**.
 

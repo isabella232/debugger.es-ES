@@ -1,14 +1,15 @@
 ---
 cloud: experience-platform
 product: experience platform
-sub-product: 'experience platform debugger '
+sub-product: experience platform debugger
+solution: Experience Platform, Data Collection
 audience: end-user
 user-guide-title: Ayuda de Experience Platform Debugger
 user-guide-description: Examine las páginas web para ver si hay problemas con las implementaciones de Experience Platform.
 breadcrumb-title: Guía del Platform Debugger
 index: true
 translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+source-git-commit: 24d9c114cde4ffd5cc7c64b6a66f778d3ce6f7d0
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%

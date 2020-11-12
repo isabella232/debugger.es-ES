@@ -4,10 +4,10 @@ keywords: debugger;experience platform debugger extension;chrome;extension;confi
 seo-description: Cómo configurar Experience Platform Debugger
 seo-title: Configurar Experience Platform Debugger
 title: Configurar Experience Platform Debugger
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '172'
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '170'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ Puede configurar ciertos elementos de aspecto y del funcionamiento de Experience
 
 ## Modo claro u oscuro
 
-Después de abrir Experience Platform Debugger, puede seleccionar el aspecto que prefiera desde **[!UICONTROL Settings]** seleccionando **Modo oscuro** (predeterminado) o **Modo claro**.
+Después de abrir Platform Debugger, puede seleccionar el aspecto que prefiera desde **[!UICONTROL Settings]** seleccionando **Modo oscuro** (predeterminado) o **Modo claro**.
 
 ## Restablecer
 
@@ -33,7 +33,7 @@ Haga clic en **[!UICONTROL Reset all Data and Settings]** para volver a borrar t
 
 ## Bloquear el Experience Platform Debugger en una página
 
-A medida que cambia de página en el sitio, la ventana de Experience Platform Debugger se actualiza para mostrar información de la página correspondiente. El nombre de la página actual se muestra en la parte inferior de la pantalla. Para mantener Experience Platform Debugger bloqueado en una página, haga clic en **[!UICONTROL Lock]**, en la esquina inferior derecha de la ventana de Experience Platform Debugger.
+A medida que cambia de página en el sitio, la ventana de Experience Platform Debugger se actualiza para mostrar información de la página correspondiente. El nombre de la página actual se muestra en la parte inferior de la pantalla. Para mantener Platform Debugger bloqueado en una página, haga clic en **[!UICONTROL Lock]**, en la esquina inferior derecha de la ventana de Experience Platform Debugger.
 
 ![](assets/lock.jpg)
 

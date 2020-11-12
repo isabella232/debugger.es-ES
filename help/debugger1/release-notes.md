@@ -6,10 +6,10 @@ seo-title: Notas de la versión
 title: Notas de la versión
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '699'
-ht-degree: 100%
+source-wordcount: '723'
+ht-degree: 85%
 
 ---
 
@@ -50,12 +50,12 @@ ht-degree: 100%
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Pruebas de Auditor </p> </td> 
-   <td colname="col2"> <p> Se agregaron <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> pruebas de Auditor</a> a Debugger. </p> </td> 
+   <td colname="col1"> <p>Pruebas de Adobe Experience Platform Auditor </p> </td> 
+   <td colname="col2"> <p> Pruebas <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"></a> añadidas de Platform Auditor al Experience Cloud Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>Debugger ahora muestra respuestas AAM. </p> </td> 
+   <td colname="col2"> <p>El Experience Cloud Debugger ahora muestra AAM respuestas </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -64,7 +64,7 @@ ht-degree: 100%
 
 * Se ha corregido un problema en el cual el pie de página ocultaba contenido en la parte inferior de la página.
 
-* Se ha actualizado el pie de página de Debugger.
+* Se ha actualizado el pie de página del Experience Cloud Debugger
 * Se ha corregido un problema que hacía que se usara una terminología obsoleta en Target.
 
 ## Versión 0.0.809, 28 de febrero de 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
@@ -96,7 +96,7 @@ ht-degree: 100%
 
 * Se ha corregido un problema en Insertar Launch de forma dinámica en el que la interfaz de usuario parecía asignarse a un código incrustado diferente cuando no era el caso.
 * Se ha corregido un problema en Insertar Launch de forma dinámica en el cual se mostraba una dirección URL incorrecta.
-* Se ha corregido un problema en el cual Debugger reemplazaba los códigos incrustados incluso cuando se cerraba la ventana de Debugger.
+* Se corrigió un problema en el cual el Experience Cloud Debugger seguía reemplazando los códigos incrustados incluso cuando se cerraba la ventana del Experience Cloud Debugger
 
 ## Versión 0.0.806, 10 de septiembre de 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
@@ -116,7 +116,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td colname="col1"> <p>Insertar Launch de forma dinámica </p> </td> 
-   <td colname="col2"> <p>Desde la pestaña Herramientas, puede Insertar Launch de forma dinámica en cualquier página para probar algo en una página que no tenga Launch instalado. </p> </td> 
+   <td colname="col2"> <p>Desde la ficha Herramientas, puede insertar dinámicamente Adobe Experience Platform Launch en cualquier página para probar algo en una página que no tenga instalado Inicio de plataforma. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Mejoras de Target </p> </td> 
@@ -139,7 +139,7 @@ ht-degree: 100%
 * Se ha solucionado un problema en el que la pestaña Experience Cloud no se actualizaba.
 
 * Se ha corregido un problema en el cual “Media Optimizer” se mostraba en la fila Solución de la pestaña Red, en lugar del nombre actual “Advertising Cloud”.
-* Se ha corregido un problema que provocaba que Debugger inyectara _satellite en todas las páginas.
+* Se ha corregido un problema que provocaba que el Experience Cloud Debugger insertara _satellite en todas las páginas
 
 ## Versión 0.0.803, 10 de agosto de 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
@@ -158,8 +158,8 @@ La versión 0.0.803 no incluye ningún cambio de cara al cliente.
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Vínculo del auditor en la pestaña Herramientas </p> </td> 
-   <td colname="col2"> <p>Se ha agregado un vínculo al Auditor desde Debugger. </p> </td> 
+   <td colname="col1"> <p>Vínculo Auditor de plataforma en la ficha Herramientas </p> </td> 
+   <td colname="col2"> <p>Se ha añadido un vínculo del Experience Cloud Debugger a Platform Auditor </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Pestañas contraídas </p> </td> 

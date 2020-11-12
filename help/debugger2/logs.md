@@ -5,11 +5,11 @@ seo-description: Pantalla de registros de Experience Platform Debugger
 seo-title: Registros
 title: Registros
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '157'
+ht-degree: 87%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 >
 >Adobe Experience Platform Debugger se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
 
-La pantalla Registros proporciona información específica sobre las implementaciones de DTM, Launch y SDK web de AEP. No es necesario habilitar la herramienta de depuración de consola para DTM para mostrar esta información. Puede filtrar por soluciones implementadas mediante las herramientas de asociadas.
+La pantalla Registros proporciona información específica sobre las implementaciones de DTM, Adobe Experience Platform Launch y Adobe Experience Platform Web SDK. No es necesario habilitar la herramienta de depuración de consola para DTM para mostrar esta información. Puede filtrar por soluciones implementadas mediante las herramientas de asociadas.
 
 ![](assets/logs.jpg)
 

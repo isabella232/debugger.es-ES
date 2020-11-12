@@ -5,8 +5,11 @@ seo-description: Uso de las pestañas de solución en Adobe Debugger
 seo-title: Pestañas de solución en Adobe Debugger
 title: Pestañas de solución
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '1063'
+ht-degree: 94%
 
 ---
 
@@ -33,7 +36,7 @@ Haga clic en la ID del grupo de informes para expandir la vista:
 
 ![](assets/analytics-hits-expand.jpg)
 
-Esta pantalla muestra todas las solicitudes desde que se abrió Debugger o se borraron las solicitudes. Los parámetros predeterminados se asignan automáticamente a nombres descriptivos. Las variables [prop y eVar](https://docs.adobe.com/content/help/es-ES/analytics/implementation/vars/page-vars/evar.html) se pueden asignar a sus nombres descriptivos personalizados (por ejemplo, “prop1” podría mostrarse como “Tipo de usuario”) si se autentica con la función “Análisis de vínculos” (ver a continuación). Las solicitudes se muestran en secuencia de izquierda a derecha.
+Esta pantalla muestra todas las solicitudes desde que se abrió el depurador de formularios de Adobe Experience Player o se borraron. Los parámetros predeterminados se asignan automáticamente a nombres descriptivos. Las variables [prop y eVar](https://docs.adobe.com/content/help/es-ES/analytics/implementation/vars/page-vars/evar.html) se pueden asignar a sus nombres descriptivos personalizados (por ejemplo, “prop1” podría mostrarse como “Tipo de usuario”) si se autentica con la función “Análisis de vínculos” (ver a continuación). Las solicitudes se muestran en secuencia de izquierda a derecha.
 
 **Descargar:** Guarde todas las solicitudes realizadas en el grupo de informes como una hoja de cálculo de Excel.
 
@@ -41,7 +44,7 @@ Esta pantalla muestra todas las solicitudes desde que se abrió Debugger o se bo
 
 **Cuentas vinculadas (heredadas)**
 
-Haga clic en **[!UICONTROL Link Account]** y, a continuación, introduzca la información solicitada para vincular una cuenta de Analytics a Debugger.
+Click **[!UICONTROL Link Account]**, then enter the requested information to link an Analytics account to the Platform Debugger.
 
 >[!NOTE]
 >
@@ -53,7 +56,7 @@ Haga clic en **[!UICONTROL Link Account]** y, a continuación, introduzca la inf
 
 Active la opción Recuperar visitas posteriores al procesamiento si desea ver los valores de las visitas de Analytics después de ejecutar las reglas de procesamiento. Debe iniciar sesión en Adobe Experience Cloud para que esta funcionalidad se ejecute correctamente.
 
-Cuando esta opción está habilitada, se agrega un parámetro de depuración a las solicitudes de Analytics. Las visitas se siguen procesando como cualquier otra visita. Debugger sondea la API de depuración de Analytics para recuperar los valores de las reglas posteriores al procesamiento de cualquier visita que tenga un ID de visita individual original. Las visitas posteriores al procesamiento tienen un fondo morado y se muestran junto a la visita original.
+Cuando esta opción está habilitada, se agrega un parámetro de depuración a las solicitudes de Analytics. Las visitas se siguen procesando como cualquier otra visita. Platform Debugger sondea la API de depuración de Analytics para recuperar los valores de las reglas de postprocesamiento de cualquier visita que tenga un ID de visita individual original. Las visitas posteriores al procesamiento tienen un fondo morado y se muestran junto a la visita original.
 
 Para la mayoría de las implementaciones de Analytics, la información de reglas posteriores al procesamiento estará disponible en unos minutos. La implementación de Analytics para Target (A4T) tarda mucho más.
 
@@ -85,11 +88,11 @@ Debe tener una pestaña de Chrome abierta que esté autenticada en Experience Cl
 
 El siguiente vídeo muestra la funcionalidad general de Target:
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
 
 El siguiente vídeo muestra el seguimiento de mbox:
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 

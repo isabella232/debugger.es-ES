@@ -5,11 +5,11 @@ seo-description: 'Uso de las pestañas de solución en Adobe Experience Platform
 seo-title: 'Pestañas de solución en Adobe Experience Platform Debugger '
 title: Pestañas de solución
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 88%
 
 Haga clic en una solución para ver los resultados de soluciones específicas de Adobe Experience Cloud.
 
-## Adobe Experience Platform Web SDK {#aep}
+## SDK web de Adobe Experience Platform {#aep}
 
 La pantalla del SDK web de Adobe Experience Platform muestra información sobre el SDK web de Adobe Experience Platform. Haga clic en **[!UICONTROL Configure]** para activar o desactivar el inicio de sesión en la consola.
 
@@ -34,7 +34,7 @@ La pantalla de Analytics proporciona información sobre su implementación de [A
 
 ## Target {#section-988873ba5ede4317953193bd7ac5474c}
 
-Utilice la pantalla de Target para ver [solicitudes de](https://docs.adobe.com/content/help/es-ES/target/using/target-home.html) Target<!-- or [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) response details-->.
+Utilice la pantalla de Target para ver solicitudes de[ Target](https://docs.adobe.com/content/help/es-ES/target/using/target-home.html)<!-- or [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) response details-->.
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
@@ -42,7 +42,7 @@ Utilice la pestaña [Audience Manager](https://docs.adobe.com/content/help/es-ES
 
 ## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Utilice la sección Adobe Experience Platform Launch para vista de solicitudes de inicio de plataforma. También puede hacer clic en **[!UICONTROL Configuration]** para configurar los [códigos incrustados](https://docs.adobe.com/content/help/es-ES/launch/using/reference/upgrade/link-dtm-embed-code.html). Puede editar, reemplazar o agregar más códigos incrustados desde Experience Platform Debugger. Si inicia sesión, puede seleccionar una propiedad alternativa mediante los menús desplegables.
+Utilice la sección Adobe Experience Platform Launch para ver las solicitudes de Platform Launch. También puede hacer clic en **[!UICONTROL Configuration]** para configurar los [códigos incrustados](https://docs.adobe.com/content/help/es-ES/launch/using/reference/upgrade/link-dtm-embed-code.html). Puede editar, reemplazar o agregar más códigos incrustados desde Experience Platform Debugger. Si inicia sesión, puede seleccionar una propiedad alternativa mediante los menús desplegables.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 

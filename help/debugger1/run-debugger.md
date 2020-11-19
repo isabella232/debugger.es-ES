@@ -5,11 +5,11 @@ seo-description: Ejecución de Experience Cloud Debugger
 seo-title: Pantalla de resumen
 title: Pantalla de resumen
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1047'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -32,11 +32,11 @@ Por ejemplo, la siguiente imagen muestra información sobre Adobe Target. Tenga 
 
 ![](assets/summary-target2.jpg)
 
-## Ejecución de una auditoría en Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
+## Ejecute una auditoría en Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-Puede utilizar el Auditor de plataforma para ejecutar una serie de auditorías en la página. To run Platform Auditor, click **[!UICONTROL Auditor]** in the top menu, then click **[!UICONTROL Audit Page Now]**. To open Platform Auditor, click **[!UICONTROL Run Multi-Page Audit Now]**.
+Puede utilizar Adobe Auditor para ejecutar una serie de auditorías en su página. Para ejecutar Platform Auditor, haga clic en **[!UICONTROL Auditor]** en el menú superior y, a continuación, haga clic en **[!UICONTROL Audit Page Now]**. Para abrir Platform Auditor, haga clic en **[!UICONTROL Run Multi-Page Audit Now]**.
 
-## Information shown in Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Información que aparece en Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
 Experience Cloud Debugger muestra la siguiente información para cada solución:
 
@@ -111,7 +111,7 @@ Experience Cloud Debugger muestra la siguiente información para cada solución:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nombre </p> </td> 
-   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/es-ES/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
+   <td colname="col2"> <p>Nombre de la <a href="https://docs.adobe.com/content/help/es-ES/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">propiedad</a> de Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versión </p> </td> 
@@ -119,15 +119,15 @@ Experience Cloud Debugger muestra la siguiente información para cada solución:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Fecha de compilación </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/es-ES/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Fecha de compilación de la <a href="https://docs.adobe.com/content/help/es-ES/launch/using/reference/publish/libraries.html" format="https" scope="external">biblioteca</a> de Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Entorno </p> </td> 
-   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/es-ES/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
+   <td colname="col2"> <p>El <a href="https://docs.adobe.com/content/help/es-ES/launch/using/reference/publish/environments.html" format="https" scope="external">entorno</a> utilizado por la biblioteca de Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Directorio de scripts </p> </td> 
-   <td colname="col2"> <p>El directorio en el que se almacena la secuencia de comandos de inicio de plataforma </p> </td> 
+   <td colname="col2"> <p>El directorio en el que se almacena el script de Platform Launch. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -146,7 +146,7 @@ Experience Cloud Debugger muestra la siguiente información para cada solución:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Fecha de compilación </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/es-ES/dtm/using/library-management.html" format="html" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Fecha de compilación de la <a href="https://docs.adobe.com/content/help/es-ES/dtm/using/library-management.html" format="html" scope="external">biblioteca</a> de Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Entorno </p> </td> 

@@ -4,9 +4,9 @@ keywords: debugger;experience platform debugger extension;chrome;extension;confi
 seo-description: Cómo configurar Experience Platform Debugger
 seo-title: Configurar Experience Platform Debugger
 title: Configurar Experience Platform Debugger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '170'
 ht-degree: 100%
 

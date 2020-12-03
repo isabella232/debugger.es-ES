@@ -5,9 +5,9 @@ seo-description: Uso de las pestañas de solución en Adobe Debugger
 seo-title: Pestañas de solución en Adobe Debugger
 title: Pestañas de solución
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 100%
 
@@ -88,11 +88,11 @@ Debe tener una pestaña de Chrome abierta que esté autenticada en Experience Cl
 
 El siguiente vídeo muestra la funcionalidad general de Target:
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
 
 El siguiente vídeo muestra el seguimiento de mbox:
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 

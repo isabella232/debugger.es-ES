@@ -4,9 +4,9 @@ keywords: debugger;experience platform debugger extension;chrome;extension;event
 seo-description: Pantalla de eventos de Experience Platform Debugger
 seo-title: Eventos
 title: Eventos
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%
 

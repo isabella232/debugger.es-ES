@@ -1,18 +1,17 @@
 ---
 description: Debugger examina las páginas web y le ayuda a encontrar problemas con la implementación de las soluciones de Experience Cloud
-keywords: debugger;experience cloud debugger extension;chrome;extension
+keywords: debugger;extensión de experience cloud debugger;chrome;extensión
 seo-description: 'Documentación técnica para la extensión de Chrome de Adobe Experience Cloud Debugger: Examine sus páginas web y comprenda los problemas con las implementaciones de la solución de Experience Cloud'
 seo-title: Extensión de Chrome de Adobe Experience Cloud Debugger
 title: Extensión de Adobe Experience Cloud Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
+source-git-commit: e3f0fa30fa5caeccc9a01b5d1949722836645da9
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 100%
+source-wordcount: '274'
+ht-degree: 90%
 
 ---
-
 
 # Extensión de Adobe Experience Cloud Debugger {#adobe-experience-cloud-debugger-extension}
 
@@ -20,7 +19,7 @@ La [extensión de Adobe Experience Cloud Debugger para Chrome](https://chrome.go
 
 Utilice la extensión de Adobe Experience Cloud Debugger con otras soluciones de activación de Adobe para un flujo de trabajo como el siguiente:
 
-1. Utilizar [Adobe Experience Platform Launch](https://docs.adobe.com/content/help/es-ES/launch/using/overview.html) o [DTM](https://docs.adobe.com/content/help/es-ES/dtm/using/dtm-home.html) para insertar código que active las soluciones de [Adobe Experience Cloud](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.html) en sus páginas.
+1. Utilice [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html) para insertar código que active las soluciones [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) en sus páginas.
 
 1. Utilizar [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/es-ES/auditor/using/overview.html) para probar las implementaciones.
 1. Utilice la extensión de Adobe Experience Cloud Debugger para depurar los problemas que ha encontrado Auditor o examinar otra información sobre las implementaciones.

@@ -1,20 +1,19 @@
 ---
 description: Pantalla de registros de Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;logs
+keywords: debugger;extensión de experience cloud debugger;chrome;extensión;registros
 seo-description: Pantalla de registros de Experience Cloud Debugger
 seo-title: Registros
 title: Registros
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+exl-id: 6d015129-8ac3-411e-829c-8f58ec1fdde3
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '102'
 ht-degree: 100%
 
 ---
 
-
-# Registros {#logs}
+# Registros{#logs}
 
 La pantalla Registros proporciona información específica sobre las implementaciones de DTM. No es necesario habilitar la herramienta de depuración de consola para DTM para mostrar esta información. Puede filtrar por soluciones implementadas mediante las herramientas de DTM asociadas. Puede elegir cuál de los siguientes niveles de gravedad del problema se muestra en la pantalla:
 
@@ -25,4 +24,4 @@ La pantalla Registros proporciona información específica sobre las implementac
 
 ![](assets/logs.jpg)
 
-Algunos elementos de registro de DTM incluyen la opción Mostrar código en el mensaje. Haga clic en **[!UICONTROL Show Code]** para ver el código condicional que determina si una regla debe activarse.
+Algunos elementos de registro de DTM incluyen la opción Mostrar código en el mensaje. Haga clic en **[!UICONTROL Mostrar código]** para ver el código condicional que determina si una regla debe activarse.

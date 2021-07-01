@@ -1,20 +1,19 @@
 ---
 description: Pantalla de registros de Experience Platform Debugger
-keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
+keywords: debugger;extensión de experience Platform Debugger;chrome;extensión;registros
 seo-description: Pantalla de registros de Experience Platform Debugger
 seo-title: Registros
 title: Registros
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 137a97f2-7e02-4e09-b4c9-e48e20e044d1
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 100%
+source-wordcount: '176'
+ht-degree: 71%
 
 ---
 
-
-# Registros {#logs}
+# Registros{#logs}
 
 >[!IMPORTANT]
 >
@@ -26,19 +25,19 @@ La pantalla Registros proporciona información específica sobre las implementac
 
 La pantalla Registros muestra información en cuatro columnas:
 
-**[!UICONTROL Solutions]:** Muestra los iconos de las soluciones de Experience Cloud afectadas por el elemento registrado. Pase el ratón sobre el icono para ver una descripción.
+**[!UICONTROL Soluciones]:** muestra los iconos de la solución de Experience Cloud afectada por el elemento registrado. Pase el ratón sobre el icono para ver una descripción.
 
-**[!UICONTROL Occurred at]:** Muestra cuándo se produjo el problema registrado durante la sesión.
+**[!UICONTROL Ocurrió en]:** muestra cuándo se produjo el problema registrado durante la sesión.
 
-**[!UICONTROL Log level]:** Muestra la gravedad del problema. La gravedad tiene uno de los siguientes niveles:
+**[!UICONTROL Nivel] de registro:** muestra la gravedad del problema. La gravedad tiene uno de los siguientes niveles:
 
 * Registro
 * Información
 * Advertencias
 * Errores
 
-**[!UICONTROL Log message]:** Describe el problema.
+**[!UICONTROL Mensaje de registro]:** Describe el problema.
 
-Algunos mensajes de registro incluyen la opción Mostrar código. Haga clic en **[!UICONTROL Show Code]** para ver el código condicional que determina si una regla debe activarse.
+Algunos mensajes de registro incluyen la opción Mostrar código. Haga clic en **[!UICONTROL Mostrar código]** para ver el código condicional que determina si una regla debe activarse.
 
-Para borrar el registro, haga clic en **[!UICONTROL Remove Logs]**.
+Para borrar el registro, haga clic en **[!UICONTROL Eliminar registros]**.

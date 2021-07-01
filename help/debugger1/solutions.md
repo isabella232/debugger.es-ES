@@ -1,20 +1,19 @@
 ---
 description: Uso de las pestañas de solución en Adobe Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
+keywords: debugger;extensión de experience cloud debugger;chrome;extensión;resumen;borrar;solicitudes;soluciones;solución;información;analytics;target;aaudience manager;media optimizer;amo;servicio de ID
 seo-description: Uso de las pestañas de solución en Adobe Debugger
 seo-title: Pestañas de solución en Adobe Debugger
 title: Pestañas de solución
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1063'
-ht-degree: 100%
+source-wordcount: '1102'
+ht-degree: 98%
 
 ---
 
-
-# Pestañas de solución {#solution-tabs}
+# Pestañas de solución{#solution-tabs}
 
 Haga clic en las pestañas de solución para ver los resultados de soluciones específicas de Adobe Experience Cloud.
 
@@ -44,7 +43,7 @@ Esta pantalla muestra todas las solicitudes desde que se abrió Adobe Experience
 
 **Cuentas vinculadas (heredadas)**
 
-Haga clic en **[!UICONTROL Link Account]** y, a continuación, introduzca la información solicitada para vincular una cuenta de Analytics a Platform Debugger.
+Haga clic en **[!UICONTROL Vincular cuenta]** y, a continuación, introduzca la información solicitada para vincular una cuenta de Analytics a Platform Debugger.
 
 >[!NOTE]
 >
@@ -64,13 +63,13 @@ Para la mayoría de las implementaciones de Analytics, la información de reglas
 
 Utilice la pestaña Target para ver las solicitudes de [Target](https://docs.adobe.com/content/help/es-ES/target/using/target-home.html) o los detalles de respuesta de [seguimiento de mbox](https://docs.adobe.com/content/help/es-ES/target/using/activities/troubleshoot-activities/content-trouble.html).
 
-Haga clic en **[!UICONTROL Requests]** y expanda el entorno para ver información sobre Target.
+Haga clic en **[!UICONTROL Solicitudes]** y expanda el entorno para ver información sobre Target.
 
 ![](assets/target-requests.jpg)
 
-Haga clic en **[!UICONTROL Clear All Requests]** para eliminar las solicitudes que se muestran actualmente. Se mostrarán más solicitudes a medida que se realicen.
+Haga clic en **[!UICONTROL Borrar todas las solicitudes]** para eliminar las solicitudes mostradas actualmente. Se mostrarán más solicitudes a medida que se realicen.
 
-También puede utilizar el filtro de Target para [habilitar el seguimiento de MBox para fines de depuración de Target](https://docs.adobe.com/content/help/es-ES/target/using/activities/troubleshoot-activities/content-trouble.html).
+También puede utilizar el filtro de Target para [habilitar el seguimiento de MBox para fines de depuración de Target](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html).
 
 Debe tener una pestaña de Chrome abierta que esté autenticada en Experience Cloud para habilitar el seguimiento de mbox. Una vez activado, muestra el nombre de usuario de su Adobe ID. Amplíe su nombre de usuario para mostrar los códigos de cliente de Target asociados con las organizaciones de Experience Cloud a las que tiene acceso. Haga clic en el código de cliente para el que desea habilitar el seguimiento de mbox y confirme que aparece la marca de verificación verde. Ahora aparecerán todas las solicitudes de Target con información de seguimiento de mbox, agrupadas por código de cliente. Para explorar la información de seguimiento de mbox, expanda la solicitud para ver las pestañas:
 
@@ -78,7 +77,7 @@ Debe tener una pestaña de Chrome abierta que esté autenticada en Experience Cl
 
 * Solicitud
 
-   La pestaña de solicitud de [Seguimiento de mbox](https://docs.adobe.com/content/help/es-ES/target/using/activities/troubleshoot-activities/content-trouble.html) es similar a la pestaña de solicitud principal. Puede ver todos los parámetros pasados por la solicitud de Target, además de los encabezados de solicitud.
+   La pestaña de solicitud de [Seguimiento de mbox](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) es similar a la pestaña de solicitud principal. Puede ver todos los parámetros pasados por la solicitud de Target, además de los encabezados de solicitud.
 * Perfil
 
    Expanda la sección Instantánea de perfil para ver la [información de perfil](https://docs.adobe.com/content/help/es-ES/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html) almacenada sobre usted como visitante en la base de datos de perfiles de Target. Aquí se exponen todos los perfiles en mbox y de secuencia de comandos, así como algunos perfiles del sistema. La columna Estado muestra qué perfiles han cambiado en el ámbito de esta solicitud, así como sus valores antes y después de que la solicitud ingresara al sistema de perfiles.
@@ -100,7 +99,7 @@ Utilice la pestaña [Audience Manager](https://docs.adobe.com/content/help/es-ES
 
 ![](assets/audience-manager.jpg)
 
-Haga clic en **[!UICONTROL Clear All Events]** para restablecer la información mostrada. Aparecerán nuevos eventos a medida que ocurran.
+Haga clic en **[!UICONTROL Borrar todos los eventos]** para restablecer la información mostrada. Aparecerán nuevos eventos a medida que ocurran.
 
 **Sincronización de ID**
 
@@ -114,14 +113,14 @@ Consulte [Sincronización de ID para transferencias de datos de entrada](https:/
 
 Utilice la pestaña Advertising Cloud para ver las solicitudes de Advertising Cloud.
 
-Haga clic en **[!UICONTROL Requests]** y expanda el entorno para ver información sobre Advertising Cloud.
+Haga clic en **[!UICONTROL Solicitudes]** y expanda el entorno para ver información sobre Advertising Cloud.
 
-Haga clic en **[!UICONTROL Clear All Requests]** para eliminar las solicitudes que se muestran actualmente. Se mostrarán más solicitudes a medida que se realicen.
+Haga clic en **[!UICONTROL Borrar todas las solicitudes]** para eliminar las solicitudes mostradas actualmente. Se mostrarán más solicitudes a medida que se realicen.
 
-## Servicio Experience Cloud ID {#section-a96c32f8e63a4991abb296f6e8ea01cf}
+## Servicio de Experience Cloud ID {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 Utilice la pestaña Servicio de ID de Experience Cloud para ver las solicitudes del [servicio de Experience Cloud ID](https://docs.adobe.com/content/help/es-ES/id-service/using/home.html).
 
-Haga clic en **[!UICONTROL Requests]** y, a continuación, expanda el entorno para ver información sobre el servicio de Experience Cloud ID.
+Haga clic en **[!UICONTROL Solicitudes]** y, a continuación, expanda el entorno para ver información sobre el servicio de Experience Cloud ID.
 
-Haga clic en **[!UICONTROL Clear All Requests]** para eliminar las solicitudes que se muestran actualmente. Se mostrarán más solicitudes a medida que se realicen.
+Haga clic en **[!UICONTROL Borrar todas las solicitudes]** para eliminar las solicitudes mostradas actualmente. Se mostrarán más solicitudes a medida que se realicen.

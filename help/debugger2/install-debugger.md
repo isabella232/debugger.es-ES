@@ -1,18 +1,17 @@
 ---
 description: Cómo instalar Experience Platform Debugger
-keywords: debugger;experience Platform Debugger extension;chrome;extension;install
+keywords: debugger;extensión de experience Platform Debugger;chrome;extensión;instalar
 seo-description: Cómo instalar Experience Platform Debugger
 seo-title: Instalar Experience Platform Debugger
 title: Instalar Experience Platform Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: add83773-dad7-4abe-9740-a69eb8fadbc3
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 92%
 
 ---
-
 
 # Instalar Adobe Experience Platform Debugger {#install-experience-platform-debugger}
 
@@ -30,4 +29,3 @@ Después de instalar la extensión de Chrome o el complemento de Firefox, se agr
 ![](assets/start-icon.jpg)
 
 Haga clic en el icono para iniciar Experience Platform Debugger.
-

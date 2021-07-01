@@ -1,18 +1,17 @@
 ---
 description: Instrucciones de instalación del Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;install
+keywords: debugger;extensión del experience cloud debugger;chrome;extensión;instalar
 seo-description: Instrucciones de instalación del Experience Cloud Debugger
 seo-title: Instalar Adobe Experience Cloud Debugger
 title: Instalar Adobe Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: d1889803-f040-429e-9e0b-1a33afca721e
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
-
 
 # Instalar Adobe Experience Cloud Debugger {#install-experience-cloud-debugger}
 

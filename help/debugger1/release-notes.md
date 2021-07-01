@@ -5,27 +5,26 @@ seo-description: Notas de la versión de Experience Cloud Debugger
 seo-title: Notas de la versión
 title: Notas de la versión
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
 source-wordcount: '732'
 ht-degree: 100%
 
 ---
 
-
-# Notas de la versión {#release-notes}
+# Notas de la versión{#release-notes}
 
 ## Notas de la versión {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
 ## Versión 0.0.817, 17 de mayo de 2019 {#topic-5dc9026cac864330b04361b1da8309a8}
 
-## Nuevas funciones {#section-71352536e6894ad08f307535529394cd}
+## Nuevas características {#section-71352536e6894ad08f307535529394cd}
 
 <table id="table_7EFCAF456B14404FAF3715FC56519AAF"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Funcionalidad </th> 
+   <th colname="col1" class="entry"> Función </th> 
    <th colname="col2" class="entry"> Descripción </th> 
   </tr>
  </thead>
@@ -39,12 +38,12 @@ ht-degree: 100%
 
 ## Versión 0.0.810, 6 de marzo de 2019 {#topic-83bb7ddd68594177be9fd7826b650b80}
 
-## Nuevas funciones {#section-0a2f6fcb0045464fa11f0586c69f7ffd}
+## Nuevas características {#section-0a2f6fcb0045464fa11f0586c69f7ffd}
 
 <table id="table_96AEBFF29F3D40CAA859133B22756B0C"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Funcionalidad </th> 
+   <th colname="col1" class="entry"> Función </th> 
    <th colname="col2" class="entry"> Descripción </th> 
   </tr>
  </thead>
@@ -69,12 +68,12 @@ ht-degree: 100%
 
 ## Versión 0.0.809, 28 de febrero de 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
 
-## Nuevas funciones {#section-14036b9f2c0144fdac5e292ea42ce564}
+## Nuevas características {#section-14036b9f2c0144fdac5e292ea42ce564}
 
 <table id="table_66E255E9BA8845CAA92779F580D14EB4"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Funcionalidad </th> 
+   <th colname="col1" class="entry"> Función </th> 
    <th colname="col2" class="entry"> Descripción </th> 
   </tr>
  </thead>
@@ -100,12 +99,12 @@ ht-degree: 100%
 
 ## Versión 0.0.806, 10 de septiembre de 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
-## Nuevas funciones {#section-4eb2a6ed26a44abc96623384a7e94b0f}
+## Nuevas características {#section-4eb2a6ed26a44abc96623384a7e94b0f}
 
 <table id="table_9AC6DE90AF4345DFA707BFBA1E58C328"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Funcionalidad </th> 
+   <th colname="col1" class="entry"> Función </th> 
    <th colname="col2" class="entry"> Descripción </th> 
   </tr>
  </thead>
@@ -147,12 +146,12 @@ La versión 0.0.803 no incluye ningún cambio de cara al cliente.
 
 ## Versión 0.0.802, 1 de agosto de 2018 {#topic-b93cd396af5e49dc97cd86264871aeb4}
 
-## Nuevas funciones {#section-e6699fb9c9b24035ace56d6a84c9d09b}
+## Nuevas características {#section-e6699fb9c9b24035ace56d6a84c9d09b}
 
 <table id="table_E847A9D6711F4CF59E98806FA7AF8379"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Funcionalidad </th> 
+   <th colname="col1" class="entry"> Función </th> 
    <th colname="col2" class="entry"> Descripción </th> 
   </tr>
  </thead>
@@ -184,12 +183,12 @@ La versión 0.0.803 no incluye ningún cambio de cara al cliente.
 
 ## Versión 0.0.798, 14 de junio de 2018 {#topic-3b2d44277f2f4c0295d82724c34bf467}
 
-## Nuevas funciones {#section-0d73ae8b7ced417e9039f986fafaa102}
+## Nuevas características {#section-0d73ae8b7ced417e9039f986fafaa102}
 
 <table id="table_8FDED5A7B7F7430A88AE441336F9C714"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Funcionalidad </th> 
+   <th colname="col1" class="entry"> Función </th> 
    <th colname="col2" class="entry"> Descripción </th> 
   </tr>
  </thead>
@@ -234,12 +233,12 @@ La versión 0.0.803 no incluye ningún cambio de cara al cliente.
 
 ## Versión 0.0.797, 25 de mayo de 2018 {#topic-51490f4f42aa40eb879663fad9d62916}
 
-## Nuevas funciones {#section-bbf8ff7e000e4b5592d348e0870471f6}
+## Nuevas características {#section-bbf8ff7e000e4b5592d348e0870471f6}
 
 <table id="table_8CF872DC245A46C38FE21490C842D47A"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Funcionalidad </th> 
+   <th colname="col1" class="entry"> Función </th> 
    <th colname="col2" class="entry"> Descripción </th> 
   </tr>
  </thead>
@@ -262,4 +261,3 @@ La versión 0.0.803 no incluye ningún cambio de cara al cliente.
   </tr> 
  </tbody> 
 </table>
-

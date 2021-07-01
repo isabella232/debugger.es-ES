@@ -1,26 +1,25 @@
 ---
 description: Pantalla de herramientas del Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;tools;dtm;target
+keywords: debugger;extensión de experience cloud debugger;chrome;extension;herramientas;dtm;target
 seo-description: Pantalla de herramientas del Experience Cloud Debugger
 seo-title: Herramientas
 title: Herramientas
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: ad108515-030f-4790-a29c-70f82e58a55d
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '405'
 ht-degree: 100%
 
 ---
 
-
-# Herramientas {#tools}
+# Herramientas{#tools}
 
 En la pantalla Herramientas, puede habilitar o deshabilitar varias herramientas para la solución instalada. Por ejemplo, puede activar las sentencias de depuración de la consola de Target o utilizar la biblioteca de ensayo de la DTM. Estas herramientas solo están disponibles si Target y DTM están instalados en la página.
 
 ![](assets/tools.jpg)
 
-Puede insertar Adobe Experience Platform Launch o DTM de forma dinámica en cualquier página para probar algo en una página que no tenga instalado Platform Launch o DTM. Haga clic en el icono **[!UICONTROL Embed Code]**, luego escriba el [código incrustado](https://docs.adobe.com/content/help/es-ES/dtm/using/client-side/deployment.html) y haga clic en **[!UICONTROL Save]**.
+Puede insertar Adobe Experience Platform Launch o DTM de forma dinámica en cualquier página para probar algo en una página que no tenga instalado Platform Launch o DTM. Haga clic en el icono **[!UICONTROL Código incrustado]**, luego escriba el [código incrustado](https://docs.adobe.com/content/help/es-ES/dtm/using/client-side/deployment.html) y haga clic en **[!UICONTROL Guardar]**.
 
 ![](assets/tools-embedcode.jpg)
 

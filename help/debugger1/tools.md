@@ -8,7 +8,7 @@ uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 exl-id: ad108515-030f-4790-a29c-70f82e58a55d
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '402'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ En la pantalla Herramientas, puede habilitar o deshabilitar varias herramientas 
 
 ![](assets/tools.jpg)
 
-Puede insertar Adobe Experience Platform Launch o DTM de forma dinámica en cualquier página para probar algo en una página que no tenga instalado Platform Launch o DTM. Haga clic en el icono **[!UICONTROL Código incrustado]**, luego escriba el [código incrustado](https://docs.adobe.com/content/help/es-ES/dtm/using/client-side/deployment.html) y haga clic en **[!UICONTROL Guardar]**.
+Puede insertar Adobe Experience Platform Launch o DTM de forma dinámica en cualquier página para probar algo en una página que no tenga instalado Platform Launch o DTM. Haga clic en el icono **[!UICONTROL Embed Code]**, luego escriba el [código incrustado](https://docs.adobe.com/content/help/es-ES/dtm/using/client-side/deployment.html) y haga clic en **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 

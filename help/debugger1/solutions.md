@@ -8,8 +8,8 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1102'
-ht-degree: 98%
+source-wordcount: '1085'
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ Esta pantalla muestra todas las solicitudes desde que se abrió Adobe Experience
 
 **Cuentas vinculadas (heredadas)**
 
-Haga clic en **[!UICONTROL Vincular cuenta]** y, a continuación, introduzca la información solicitada para vincular una cuenta de Analytics a Platform Debugger.
+Haga clic en **[!UICONTROL Link Account]** y, a continuación, introduzca la información solicitada para vincular una cuenta de Analytics a Platform Debugger.
 
 >[!NOTE]
 >
@@ -63,11 +63,11 @@ Para la mayoría de las implementaciones de Analytics, la información de reglas
 
 Utilice la pestaña Target para ver las solicitudes de [Target](https://docs.adobe.com/content/help/es-ES/target/using/target-home.html) o los detalles de respuesta de [seguimiento de mbox](https://docs.adobe.com/content/help/es-ES/target/using/activities/troubleshoot-activities/content-trouble.html).
 
-Haga clic en **[!UICONTROL Solicitudes]** y expanda el entorno para ver información sobre Target.
+Haga clic en **[!UICONTROL Requests]** y expanda el entorno para ver información sobre Target.
 
 ![](assets/target-requests.jpg)
 
-Haga clic en **[!UICONTROL Borrar todas las solicitudes]** para eliminar las solicitudes mostradas actualmente. Se mostrarán más solicitudes a medida que se realicen.
+Haga clic en **[!UICONTROL Clear All Requests]** para eliminar las solicitudes que se muestran actualmente. Se mostrarán más solicitudes a medida que se realicen.
 
 También puede utilizar el filtro de Target para [habilitar el seguimiento de MBox para fines de depuración de Target](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html).
 
@@ -99,7 +99,7 @@ Utilice la pestaña [Audience Manager](https://docs.adobe.com/content/help/es-ES
 
 ![](assets/audience-manager.jpg)
 
-Haga clic en **[!UICONTROL Borrar todos los eventos]** para restablecer la información mostrada. Aparecerán nuevos eventos a medida que ocurran.
+Haga clic en **[!UICONTROL Clear All Events]** para restablecer la información mostrada. Aparecerán nuevos eventos a medida que ocurran.
 
 **Sincronización de ID**
 
@@ -113,14 +113,14 @@ Consulte [Sincronización de ID para transferencias de datos de entrada](https:/
 
 Utilice la pestaña Advertising Cloud para ver las solicitudes de Advertising Cloud.
 
-Haga clic en **[!UICONTROL Solicitudes]** y expanda el entorno para ver información sobre Advertising Cloud.
+Haga clic en **[!UICONTROL Requests]** y expanda el entorno para ver información sobre Advertising Cloud.
 
-Haga clic en **[!UICONTROL Borrar todas las solicitudes]** para eliminar las solicitudes mostradas actualmente. Se mostrarán más solicitudes a medida que se realicen.
+Haga clic en **[!UICONTROL Clear All Requests]** para eliminar las solicitudes que se muestran actualmente. Se mostrarán más solicitudes a medida que se realicen.
 
 ## Servicio de Experience Cloud ID {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 Utilice la pestaña Servicio de ID de Experience Cloud para ver las solicitudes del [servicio de Experience Cloud ID](https://docs.adobe.com/content/help/es-ES/id-service/using/home.html).
 
-Haga clic en **[!UICONTROL Solicitudes]** y, a continuación, expanda el entorno para ver información sobre el servicio de Experience Cloud ID.
+Haga clic en **[!UICONTROL Requests]** y, a continuación, expanda el entorno para ver información sobre el servicio de Experience Cloud ID.
 
-Haga clic en **[!UICONTROL Borrar todas las solicitudes]** para eliminar las solicitudes mostradas actualmente. Se mostrarán más solicitudes a medida que se realicen.
+Haga clic en **[!UICONTROL Clear All Requests]** para eliminar las solicitudes que se muestran actualmente. Se mostrarán más solicitudes a medida que se realicen.

@@ -8,8 +8,8 @@ uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1080'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ Aparece la pantalla Resumen de Experience Cloud Debugger.
 
 Esta pantalla muestra una miniatura de la página, así como la dirección URL y el título de la página. También muestra información sobre cada solución de Adobe Experience Cloud. La información mostrada varía según la solución, pero generalmente incluye información como la biblioteca y la versión de la solución (por ejemplo, “AppMeasurement v2.9”) e identificadores de cuenta (como el ID del grupo de informes de Analytics, el código de cliente de Target, el ID del socio de Audience Manager, etc.)
 
-Los números en azul junto a las pestañas en la parte superior de la ventana muestran el número de llamadas al servidor que se han realizado. Puede restablecer estos valores a cero si hace clic en **[!UICONTROL Borrar todas las solicitudes]** en la pestaña correspondiente.
+Los números en azul junto a las pestañas en la parte superior de la ventana muestran el número de llamadas al servidor que se han realizado. Puede restablecer estos valores a cero si hace clic en **[!UICONTROL Clear All Requests]** en la pestaña correspondiente.
 
 Por ejemplo, la siguiente imagen muestra información sobre Adobe Target. Tenga en cuenta que, para exponer los detalles de la actividad que se muestran a continuación sin autenticación, debe implementar el detector de eventos de depuración en el administrador de códigos o etiquetas y activar los [tokens de respuesta](https://docs.adobe.com/content/help/es-ES/target/using/administer/response-tokens.html) necesarios en la interfaz de usuario de Target.
 
@@ -33,7 +33,7 @@ Por ejemplo, la siguiente imagen muestra información sobre Adobe Target. Tenga 
 
 ## Ejecute una auditoría en Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-Puede utilizar Adobe Auditor para ejecutar una serie de auditorías en su página. Para ejecutar Platform Auditor, haga clic en **[!UICONTROL Auditor]** en el menú superior y, a continuación, haga clic en **[!UICONTROL Auditar página ahora]**. Para abrir Platform Auditor, haga clic en **[!UICONTROL Ejecutar auditoría de varias páginas ahora]**.
+Puede utilizar Adobe Auditor para ejecutar una serie de auditorías en su página. Para ejecutar Platform Auditor, haga clic en **[!UICONTROL Auditor]** en el menú superior y, a continuación, haga clic en **[!UICONTROL Audit Page Now]**. Para abrir Platform Auditor, haga clic en **[!UICONTROL Run Multi-Page Audit Now]**.
 
 ## Información que aparece en Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 

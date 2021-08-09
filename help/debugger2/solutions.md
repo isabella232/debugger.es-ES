@@ -8,8 +8,8 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 2cb49f78-4a4b-4410-8a4b-6f9009c51d58
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 83%
+source-wordcount: '302'
+ht-degree: 92%
 
 ---
 
@@ -23,7 +23,7 @@ Haga clic en una solución para ver los resultados de soluciones específicas de
 
 ## SDK web de Adobe Experience Platform {#aep}
 
-La pantalla del SDK web de Adobe Experience Platform muestra información sobre el SDK web de Adobe Experience Platform. Haga clic en **[!UICONTROL Configurar]** para activar o desactivar el inicio de sesión en la consola.
+La pantalla del SDK web de Adobe Experience Platform muestra información sobre el SDK web de Adobe Experience Platform. Haga clic en **[!UICONTROL Configure]** para activar o desactivar el inicio de sesión en la consola.
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
@@ -41,11 +41,11 @@ Utilice la pestaña [Audience Manager](https://docs.adobe.com/content/help/es-ES
 
 ## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Utilice la sección Adobe Experience Platform Launch para ver las solicitudes de Platform Launch. También puede hacer clic en **[!UICONTROL Configuration]** para configurar [embed codes](https://docs.adobe.com/content/help/es-ES/launch/using/reference/upgrade/link-dtm-embed-code.html). Puede editar, reemplazar o agregar más códigos incrustados desde Experience Platform Debugger. Si inicia sesión, puede seleccionar una propiedad alternativa mediante los menús desplegables.
+Utilice la sección Adobe Experience Platform Launch para ver las solicitudes de Platform Launch. También puede hacer clic en **[!UICONTROL Configuration]** para configurar los [códigos incrustados](https://docs.adobe.com/content/help/es-ES/launch/using/reference/upgrade/link-dtm-embed-code.html). Puede editar, reemplazar o agregar más códigos incrustados desde Experience Platform Debugger. Si inicia sesión, puede seleccionar una propiedad alternativa mediante los menús desplegables.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
-Utilice la sección Dynamic Tag Management para ver las solicitudes de DTM. También puede hacer clic en **[!UICONTROL Configuration]** para configurar [embed codes](https://docs.adobe.com/content/help/es-ES/dtm/using/client-side/code.html).
+Utilice la sección Dynamic Tag Management para ver las solicitudes de DTM. También puede hacer clic en **[!UICONTROL Configuration]** para configurar los [códigos incrustados](https://docs.adobe.com/content/help/es-ES/dtm/using/client-side/code.html).
 
 ## Servicio de Experience Cloud ID {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 

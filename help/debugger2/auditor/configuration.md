@@ -1,8 +1,8 @@
 ---
 title: Referencia de prueba de configuración
-description: Descubra cómo comprueba la función de auditor para la configuración en Adobe Experience Platform Debugger.
+description: Descubra cómo comprueba la función de auditor las configuraciones en Adobe Experience Platform Debugger.
 exl-id: 92b07224-57f1-4891-9923-aa079945e6bc
-source-git-commit: f18828bcaa0d244bd5b117fd8bf1c1cdba4d4b52
+source-git-commit: 2223e29de6876639c5dbffda4954e114dcd32521
 workflow-type: tm+mt
 source-wordcount: '763'
 ht-degree: 66%

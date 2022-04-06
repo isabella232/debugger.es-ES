@@ -1,32 +1,28 @@
 ---
-description: Pantalla de eventos de Experience Platform Debugger
+description: Aprenda a utilizar la pestaña Eventos en Adobe Experience Platform Debugger.
 keywords: debugger;extensión de experience platform debugger;chrome;extensión;eventos;dtm;target
-seo-description: Pantalla de eventos de Experience Platform Debugger
-seo-title: Eventos
-title: Eventos
+seo-description: Experience Platform Debugger Events Screen
+seo-title: Events
+title: Ficha Eventos
 exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '165'
+ht-degree: 42%
 
 ---
 
-# Eventos{#events}
+# Ficha Eventos
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
-
-La pantalla Eventos proporciona una vista gráfica de los eventos que se producen y que se muestran en una cronología.
+La variable **Eventos** proporciona una vista gráfica de los eventos que se producen y que se muestran en una cronología.
 
 ![](assets/events.jpg)
 
-Para cada evento, aparece un icono para la solución de aplicable en la cronología. Los iconos también muestran cambios en la capa de datos (si está activada). Pase el ratón sobre un icono para ver un resumen del evento. Haga clic en el evento para obtener más información. Puede pulsar Mayús + clic o Ctrl + clic para ver varios eventos.
+Para cada evento, aparece un icono para la solución de aplicable en la cronología. Los iconos también muestran cambios en la capa de datos (si está activada). Pase el ratón sobre un icono para ver un resumen del evento. Seleccione en el evento para obtener más información. Puede pulsar Mayús-Seleccionar o Control-Seleccionar para ver varios eventos.
 
 ![](assets/events-details.jpg)
 
-Haga clic en un detalle para obtener más información.
+Seleccione un detalle para obtener más información.
 
 ![](assets/events-details-more.jpg)
 
@@ -34,15 +30,15 @@ Haga clic en un detalle para obtener más información.
 
 Para habilitar el seguimiento de los cambios en la capa de datos en la cronología:
 
-1. Haga clic en el icono de engranaje en la parte superior derecha.
+1. Seleccione el icono del engranaje en la parte superior derecha.
 1. Introduzca el nombre de la capa de datos.
 
    ![](assets/event-datalayer.jpg)
 
-1. Haga clic en **[!UICONTROL Save]**.
+1. Seleccione **[!UICONTROL Save]**.
 
-Los detalles del cambio de la capa de datos muestran cualquier componente que se haya eliminado o agregado. Puede hacer clic en **{}** para ver más información en la capa de datos.
+Los detalles del cambio de la capa de datos muestran cualquier componente que se haya eliminado o agregado. Puede seleccionar **{}** para ver más en profundidad la capa de datos.
 
 ## Descargar información del evento
 
-Haga clic en **[!UICONTROL Download]** para descargar un archivo de Excel que muestre información sobre las llamadas de página.
+Select **[!UICONTROL Download]** para descargar un archivo de Excel que muestre información sobre las llamadas de página.

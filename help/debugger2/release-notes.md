@@ -1,19 +1,17 @@
 ---
-description: Notas de la versión de Experience Platform Debugger
+title: Notas de la versión
+description: Últimas notas de la versión de Adobe Experience Platform Debugger.
 keywords: debugger;extensión de experience Platform Debugger;chrome;extensión;notas de la versión
-title: Notas de la versión Experience Platform Debugger
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
-source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 3%
+source-wordcount: '287'
+ht-degree: 1%
 
 ---
 
-# Notas de la versión{#release-notes}
-
-## Notas de la versión {#topic-a92c3eb799b74e7fa404af8af5efb215}
+# Notas de la versión
 
 ## Versión 1.3.0: 28 de enero de 2022
 
@@ -27,16 +25,14 @@ ht-degree: 3%
 
 ## Versión 1.2.0: 26 de octubre de 2021
 
-* Mostrar eventos de todas las pestañas del explorador en la vista de red. Para ver solo los eventos de la pestaña actual, haga clic en el icono de bloqueo en la esquina inferior derecha del depurador.
+* Mostrar eventos de todas las pestañas del explorador en la vista de red. Para ver solo los eventos de la pestaña actual, seleccione el icono de bloqueo en la esquina inferior derecha del depurador.
 * Se ha actualizado la marca.
 
 ## Versión 1.1.0: 5 de octubre de 2021
 
 * Visualización de depuración remota : Organice los eventos de depuración remota en un gráfico de flujo visual en la sección Adobe Experience Platform Web SDK > Transacciones perimetrales .
 * Requiere que la organización IMS del SDK web de Adobe Experience Platform que se utiliza en la página coincida con la organización registrada al iniciar una nueva sesión de depuración remota.
-* Mostrar solo las transacciones de borde para la pestaña conectada.
-
-> **Nota:** Los registros de seguimiento de Target siguen estando disponibles en la sección Registros > Edge .
+* Mostrar solo las transacciones de borde para la pestaña conectada. Los registros de seguimiento de Target siguen estando disponibles en la sección Registros > Edge .
 * Permite la anulación de la configuración del ID de flujo de datos independiente para cada instancia del SDK web de Adobe Experience Platform en la página. Agregar la opción de depuración habilitada .
 * Se ha corregido un problema en el cual el token de seguimiento de Adobe Target no siempre se enviaba con sesiones de depuración remota para el SDK web de Adobe Experience Platform.
 

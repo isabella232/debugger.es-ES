@@ -1,31 +1,23 @@
 ---
-description: Cómo instalar Experience Platform Debugger
+title: Instalación de Platform Debugger
+description: Obtenga información sobre cómo instalar Adobe Experience Platform Debugger.
 keywords: debugger;extensión de experience Platform Debugger;chrome;extensión;instalar
-seo-description: Cómo instalar Experience Platform Debugger
-seo-title: Instalar Experience Platform Debugger
-title: Instalar Experience Platform Debugger
+seo-description: How to Install Experience Platform Debugger
+seo-title: Install Experience Platform Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 exl-id: add83773-dad7-4abe-9740-a69eb8fadbc3
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 92%
+source-wordcount: '87'
+ht-degree: 16%
 
 ---
 
-# Instalar Adobe Experience Platform Debugger {#install-experience-platform-debugger}
+# Instalación de Platform Debugger
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
+Adobe Experience Platform Debugger se puede instalar en los navegadores Google Chrome o Mozilla Firefox. Siga el vínculo correspondiente que aparece a continuación para instalar la extensión en el explorador que prefiera:
 
-Descargue e instale Adobe Experience Platform Debugger.
+* [Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
+* [Firefox](https://addons.mozilla.org/es/firefox/addon/adobe-experience-platform-dbg/)
 
-* **Chrome**: Desde la [página de extensiones de Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
-* **Firefox:** Desde la [página de complementos de Firefox](https://addons.mozilla.org/es/firefox/addon/adobe-experience-platform-dbg/)
-
-Después de instalar la extensión de Chrome o el complemento de Firefox, se agrega un icono a la barra de extensiones:
-
-![](assets/start-icon.jpg)
-
-Haga clic en el icono para iniciar Experience Platform Debugger.
+Después de instalar la extensión de Chrome o el complemento de Firefox, aparece un icono (![](assets/start-icon.jpg)) se agrega a la barra de extensiones. Seleccione este icono para abrir la extensión.

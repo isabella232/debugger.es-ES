@@ -1,27 +1,21 @@
 ---
-description: Pantalla de conexiones de Experience Platform Debugger
+title: Pestaña Red
+description: Aprenda a utilizar la pestaña Red en Adobe Experience Platform Debugger.
 keywords: debugger;extensión de experience Platform Debugger;chrome;extensión;red;información
-seo-description: Pantalla de conexiones de Experience Platform Debugger
-seo-title: Información de red
-title: Información de red
+seo-description: Experience Platform Debugger Network screen
+seo-title: Network Tab
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: ed0579ef-ec26-43df-9453-a395c105038a
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '215'
+ht-degree: 59%
 
 ---
 
-# Red{#network}
+# Ficha Red
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger se encuentra en la versión beta. La documentación y las funciones están sujetas a cambios.
-
-Para ver la información de red, haga clic en **[!UICONTROL Network]**.
-
-La pantalla Red agrega todas las llamadas de la solución Adobe Experience Cloud realizadas en la página y las muestra en orden de izquierda a derecha. Los parámetros estándar se etiquetan automáticamente con nombres descriptivos y se organizan para agrupar parámetros comunes en la misma función.
+La variable **Red** agrega todas las llamadas de solución de Adobe Experience Cloud realizadas en la página y las muestra en orden de izquierda a derecha. Los parámetros estándar se etiquetan automáticamente con nombres descriptivos y se organizan para agrupar parámetros comunes en la misma función.
 
 ![](assets/network.jpg)
 
@@ -35,9 +29,9 @@ Para cambiar la información por solución, seleccione la solución que desee ve
 
 ![](assets/network-analytics.jpg)
 
-Para volver a mostrar todas las soluciones, haga clic en **[!UICONTROL Network]**.
+Para volver a mostrar todas las soluciones, seleccione **[!UICONTROL Network]**
 
-Haga clic en un elemento en la vista Red para verlo más grande. Desde la ventana de vista expandida, puede copiar la información mostrada en el portapapeles.
+Seleccione un elemento en la vista Red para ver una vista ampliada. Desde la ventana de vista expandida, puede copiar la información mostrada en el portapapeles.
 
 ![](assets/network-expand.jpg)
 
@@ -45,6 +39,6 @@ Haga clic en un elemento en la vista Red para verlo más grande. Desde la ventan
 
 ![](assets/copy.jpg)-->
 
-Para borrar la lista, haga clic en **[!UICONTROL Remove Events]**.
+Para borrar la lista, seleccione **[!UICONTROL Remove Events]**.
 
-Para descargar un archivo de Excel que contenga la información de esta pantalla, haga clic en **[!UICONTROL Download]**.
+Para descargar un archivo de Excel que contenga la información de esta pantalla, seleccione **[!UICONTROL Download]**.

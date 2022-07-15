@@ -1,13 +1,13 @@
 ---
 title: Notas de la versión
-description: Últimas notas de la versión de Adobe Experience Platform Debugger.
+description: Las notas de la versión más recientes de Adobe Experience Platform Debugger.
 keywords: debugger;extensión de experience Platform Debugger;chrome;extensión;notas de la versión
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
 source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
 source-wordcount: '287'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 

@@ -1,7 +1,6 @@
 ---
 source-git-commit: 66d296edea6f82bacc167db1291a466f2a7a2701
-workflow-type: ht
-translation-type: ht
+workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 100%
 
@@ -27,7 +26,7 @@ para colaboradores firmado, que da permiso a Adobe para redistribuir las contrib
 
 ## Revisiones de código
 
-Todos los envíos deben ser solicitudes de extracción y deben revisarlos los supervisores del proyecto. Lea la [documentación de las solicitudes de extracción de GitHub](https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/about-pull-requests) para obtener más información sobre el envío de solicitudes de extracción.
+Todos los envíos deben ser solicitudes de extracción y deben revisarlos los supervisores del proyecto. Lea la [documentación de las solicitudes de extracción de GitHub](https://help.github.com/es/articles/about-pull-requests/) para obtener más información sobre el envío de solicitudes de extracción.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when

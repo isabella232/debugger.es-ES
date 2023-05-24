@@ -13,9 +13,9 @@ ht-degree: 50%
 
 ---
 
-# Ficha Registros
+# Pestaña Registros
 
-La variable **Registros** proporciona información específica sobre las etiquetas y las implementaciones de Adobe Experience Platform Web SDK. Puede filtrar por soluciones implementadas mediante las herramientas de asociadas.
+El **Registros** proporciona información específica sobre las implementaciones de etiquetas y SDK web de Adobe Experience Platform. Puede filtrar por soluciones implementadas mediante las herramientas de asociadas.
 
 ![](assets/logs.jpg)
 
@@ -34,6 +34,6 @@ La pestaña Registros muestra información en cuatro columnas:
 
 **[!UICONTROL Log message]:** Describe el problema.
 
-Algunos mensajes de registro incluyen la opción Mostrar código. Select **[!UICONTROL Show Code]** para ver el código condicional que determina si una regla debe activarse.
+Algunos mensajes de registro incluyen la opción Mostrar código. Seleccionar **[!UICONTROL Show Code]** para ver el código condicional que determina si una regla debe activarse.
 
 Para borrar el registro, seleccione **[!UICONTROL Remove Logs]**.

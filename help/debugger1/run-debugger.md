@@ -145,7 +145,7 @@ Experience Cloud Debugger muestra la siguiente información para cada solución:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Fecha de compilación </p> </td> 
-   <td colname="col2"> <p>Fecha de compilación de la <a href="https://docs.adobe.com/content/help/en/dtm/using/library-management.html" format="html" scope="external">biblioteca</a> de Platform Launch. </p> </td> 
+   <td colname="col2"> <p>Fecha de compilación de la <a href="https://docs.adobe.com/content/help/es-ES/dtm/using/library-management.html" format="html" scope="external">biblioteca</a> de Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Entorno </p> </td> 
@@ -168,7 +168,7 @@ Experience Cloud Debugger muestra la siguiente información para cada solución:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versión </p> </td> 
-   <td colname="col2"> <p>Versión de la biblioteca de <a href="https://docs.adobe.com/content/help/en/analytics/technotes/visitor-identification.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
+   <td colname="col2"> <p>Versión de la biblioteca de <a href="https://docs.adobe.com/content/help/es-ES/analytics/components/metrics/unique-visitors.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -191,31 +191,31 @@ Experience Cloud Debugger muestra la siguiente información para cada solución:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nombre de mbox </p> </td> 
-   <td colname="col2"> <p>Nombre de un mbox alrededor de una <a href="https://docs.adobe.com/content/help/es-ES/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">ubicación</a> en la página. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
+   <td colname="col2"> <p>Nombre de un mbox alrededor de una <a href="https://docs.adobe.com/content/help/es-ES/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">ubicación</a> en la página. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/es-ES/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nombre de la actividad </p> </td> 
-   <td colname="col2"> <p>El nombre de la <a href="https://docs.adobe.com/content/help/es-ES/target/using/activities/activities.html" format="html" scope="external"> campaña o actividad</a> de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
+   <td colname="col2"> <p>El nombre de la <a href="https://docs.adobe.com/content/help/es-ES/target/using/activities/activities.html" format="html" scope="external"> campaña o actividad</a> de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/es-ES/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID de actividad </p> </td> 
-   <td colname="col2"> <p>El ID de la actividad de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
+   <td colname="col2"> <p>El ID de la actividad de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/es-ES/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nombre de fórmula </p> </td> 
-   <td colname="col2"> <p>Nombre de la <a href="https://docs.adobe.com/content/help/es-ES/target/using/experiences/experiences.html" format="html" scope="external"> experiencia</a> de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
+   <td colname="col2"> <p>Nombre de la <a href="https://docs.adobe.com/content/help/es-ES/target/using/experiences/experiences.html" format="html" scope="external"> experiencia</a> de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/es-ES/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID de fórmula </p> </td> 
-   <td colname="col2"> <p>El ID de la fórmula de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
+   <td colname="col2"> <p>El ID de la fórmula de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/es-ES/target/using/administer/response-tokens.html" format="html" scope="external">tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Oferta </p> </td> 
-   <td colname="col2"> <p>Nombre de la <a href="https://docs.adobe.com/content/help/es-ES/target/using/experiences/offers/manage-content.html" format="html" scope="external"> oferta</a> de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
+   <td colname="col2"> <p>Nombre de la <a href="https://docs.adobe.com/content/help/es-ES/target/using/experiences/offers/manage-content.html" format="html" scope="external"> oferta</a> de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/es-ES/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID de oferta </p> </td> 
-   <td colname="col2"> <p>El ID de la oferta de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
+   <td colname="col2"> <p>El ID de la oferta de Target. Disponible sin autenticación solo si implementa el detector de eventos de depuración en el administrador de códigos o etiquetas y activa los <a href="https://docs.adobe.com/content/help/es-ES/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de respuesta</a> necesarios en la interfaz de usuario de Target. </p> </td> 
   </tr> 
  </tbody> 
 </table>

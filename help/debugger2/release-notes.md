@@ -15,27 +15,27 @@ ht-degree: 4%
 
 ## Versión 1.3.0: 28 de enero de 2022
 
-* Se ha agregado el vínculo Acerca para mostrar la versión y las notas de la versión actuales.
-* Se ha añadido la opción de alternancia para ver las visitas procesadas posteriores a solicitudes de Analytics. El botón de alternancia está disponible en la sección Analytics .
-* Se ha corregido un problema con la sesión de depuración remota cuando la sesión se cerraba fuera del depurador.
-* Se ha corregido una notificación de error visible en la ficha Transacciones perimetrales del SDK web.
-* Se ha corregido la advertencia Etiquetas de Adobe en la página de desaprobación cuando el depurador accedió al objeto _satellite .
+* Se ha añadido el vínculo Acerca de para mostrar la versión y las notas actuales de la versión.
+* Se ha agregado la opción para ver las visitas posteriores al procesamiento de las solicitudes de Analytics. La opción está disponible en la sección Analytics.
+* Se ha corregido un problema de sesión de depuración remota cuando la sesión se cerraba fuera del depurador.
+* Se ha corregido una notificación de error visible en la pestaña Transacciones perimetrales del SDK web.
+* Se ha corregido la advertencia Etiquetas de Adobe en la obsolescencia de la página cuando el depurador accedió al objeto _satellite.
 * Se han corregido algunos casos en los que no se encontraba una instancia de AppMeasurement en la página.
-* Se ha corregido un problema de conexión de página que se producía al abrir la ventana del depurador por primera vez.
+* Se ha corregido un problema de conexión de página que se producía al abrir por primera vez la ventana del depurador.
 
 ## Versión 1.2.0: 26 de octubre de 2021
 
-* Mostrar eventos de todas las pestañas del explorador en la vista de red. Para ver solo los eventos de la pestaña actual, seleccione el icono de bloqueo en la esquina inferior derecha del depurador.
-* Se ha actualizado la marca.
+* Mostrar eventos de todas las fichas del explorador en la vista de red. Para ver solo los eventos de la pestaña actual, seleccione el icono de candado en la esquina inferior derecha de Debugger.
+* Marca actualizada.
 
 ## Versión 1.1.0: 5 de octubre de 2021
 
-* Visualización de depuración remota : Organice los eventos de depuración remota en un gráfico de flujo visual en la sección Adobe Experience Platform Web SDK > Transacciones perimetrales .
-* Requiere que la organización IMS del SDK web de Adobe Experience Platform que se utiliza en la página coincida con la organización registrada al iniciar una nueva sesión de depuración remota.
-* Mostrar solo las transacciones de borde para la pestaña conectada. Los registros de seguimiento de Target siguen estando disponibles en la sección Registros > Edge .
-* Permite la anulación de la configuración del ID de flujo de datos independiente para cada instancia del SDK web de Adobe Experience Platform en la página. Agregar la opción de depuración habilitada .
-* Se ha corregido un problema en el cual el token de seguimiento de Adobe Target no siempre se enviaba con sesiones de depuración remota para el SDK web de Adobe Experience Platform.
+* Visualización de depuración remota: organice los eventos de depuración remota en un gráfico de flujo visual en la sección SDK web de Adobe Experience Platform > Transacciones de Edge.
+* Requiera que la organización de IMS del SDK web de Adobe Experience Platform que se utiliza en la página coincida con la organización que ha iniciado sesión al iniciar una nueva sesión de depuración remota.
+* Mostrar solo las transacciones perimetrales de la pestaña conectada. Los registros de seguimiento de Target siguen estando disponibles en la sección Registros > Edge.
+* Permita anular la configuración del ID de flujo de datos independiente para cada instancia del SDK web de Adobe Experience Platform en la página. Agregar opción de depuración habilitada.
+* Se corrigió un problema en el cual el token de seguimiento de Adobe Target no siempre se enviaba con sesiones de depuración remota para el SDK web de Adobe Experience Platform.
 
 ## Versión 1.0.0, 5 de mayo de 2021
 
-* Primera versión principal de Experience Platform Debugger. Se pretende reemplazar al Experience Cloud Debugger.
+* Primera versión principal de Experience Platform Debugger. Destinado a reemplazar al Experience Cloud Debugger.

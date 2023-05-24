@@ -5,6 +5,6 @@ source-wordcount: '9'
 ht-degree: 0%
 
 ---
-# debugger.en está archivado
+# debugger.en se ha archivado
 
 https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html

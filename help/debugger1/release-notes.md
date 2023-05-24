@@ -1,7 +1,7 @@
 ---
 description: Notas de la versión de Experience Cloud Debugger
 keywords: debugger;extensión de experience cloud debugger;chrome;extensión;notas de la versión
-title: Experience Cloud Debugger de notas de la versión
+title: Experience Cloud Debugger de notas de versión
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
 source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303

@@ -69,7 +69,7 @@ Haga clic en **[!UICONTROL Requests]** y expanda el entorno para ver informació
 
 Haga clic en **[!UICONTROL Clear All Requests]** para eliminar las solicitudes que se muestran actualmente. Se mostrarán más solicitudes a medida que se realicen.
 
-También puede utilizar el filtro de Target para [habilitar el seguimiento de MBox para fines de depuración de Target](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html).
+También puede utilizar el filtro de Target para [habilitar el seguimiento de MBox para fines de depuración de Target](https://docs.adobe.com/content/help/es-ES/target/using/activities/troubleshoot-activities/content-trouble.html).
 
 Debe tener una pestaña de Chrome abierta que esté autenticada en Experience Cloud para habilitar el seguimiento de mbox. Una vez activado, muestra el nombre de usuario de su Adobe ID. Amplíe su nombre de usuario para mostrar los códigos de cliente de Target asociados con las organizaciones de Experience Cloud a las que tiene acceso. Haga clic en el código de cliente para el que desea habilitar el seguimiento de mbox y confirme que aparece la marca de verificación verde. Ahora aparecerán todas las solicitudes de Target con información de seguimiento de mbox, agrupadas por código de cliente. Para explorar la información de seguimiento de mbox, expanda la solicitud para ver las pestañas:
 
@@ -77,7 +77,7 @@ Debe tener una pestaña de Chrome abierta que esté autenticada en Experience Cl
 
 * Solicitud
 
-   La pestaña de solicitud de [Seguimiento de mbox](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) es similar a la pestaña de solicitud principal. Puede ver todos los parámetros pasados por la solicitud de Target, además de los encabezados de solicitud.
+   La pestaña de solicitud de [Seguimiento de mbox](https://docs.adobe.com/content/help/es-ES/target/using/activities/troubleshoot-activities/content-trouble.html) es similar a la pestaña de solicitud principal. Puede ver todos los parámetros pasados por la solicitud de Target, además de los encabezados de solicitud.
 * Perfil
 
    Expanda la sección Instantánea de perfil para ver la [información de perfil](https://docs.adobe.com/content/help/es-ES/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html) almacenada sobre usted como visitante en la base de datos de perfiles de Target. Aquí se exponen todos los perfiles en mbox y de secuencia de comandos, así como algunos perfiles del sistema. La columna Estado muestra qué perfiles han cambiado en el ámbito de esta solicitud, así como sus valores antes y después de que la solicitud ingresara al sistema de perfiles.

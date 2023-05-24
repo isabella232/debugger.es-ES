@@ -17,13 +17,13 @@ ht-degree: 84%
 
 >[!IMPORTANT]
 >
->Actualmente hay una nueva versión de Debugger disponible. Para obtener información sobre las últimas funcionalidades, consulte [Documentación de Adobe Experience Platform Debugger](../debugger2/experience-cloud-debugger.md).
+>Actualmente hay disponible una nueva versión de Debugger. Para obtener información sobre las funcionalidades más recientes, consulte [Documentación de Adobe Experience Platform Debugger](../debugger2/experience-cloud-debugger.md).
 
 La [extensión de Adobe Experience Cloud Debugger para Chrome](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob) examina sus páginas web y le ayuda a encontrar problemas con la implementación de las soluciones de Experience Cloud.
 
 Utilice la extensión de Adobe Experience Cloud Debugger con otras soluciones de activación de Adobe para un flujo de trabajo como el siguiente:
 
-1. Uso [etiquetas](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=es) para insertar código que active [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) en sus páginas.
+1. Uso [etiquetas](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=es) para insertar código que se active [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) soluciones en sus páginas.
 1. Utilizar Adobe Experience Platform Auditor para probar las implementaciones.
 1. Utilice la extensión de Adobe Experience Cloud Debugger para depurar los problemas que ha encontrado Auditor o examinar otra información sobre las implementaciones.
 
